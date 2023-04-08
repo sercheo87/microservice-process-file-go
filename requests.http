@@ -1,0 +1,11 @@
+### Call load endpoint to load data into the database
+
+GET http://localhost:8000/load
+
+> {%
+    client.test("Request executed successfully", function () {
+        client.assert(response.status === 200, "Response status is not 200");
+    });
+%}
+
+###

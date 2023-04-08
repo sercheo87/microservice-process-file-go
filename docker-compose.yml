@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+
+  db-file-loaders:
+    image: postgres:14-alpine
+    container_name: db-file-loaders
+    restart: always
+    hostname: db-file-loaders
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: MeWb2XjpYDaJvdhq
+      POSTGRES_DB: loaders
+    ports:
+      - "5432:5432"
+    networks:
+      postgres-network:
+        aliases:
+          - db-file-loaders.com
+
+networks:
+  postgres-network:
+    driver: bridge

@@ -1,0 +1,1001 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Europe,France,Electronics,Online,Medium,2023-03-28,1,2023-04-14,395,4.60,2.90,6.70,1.50,39.40
+Australia,Brazil,Electronics,Offline,High,2022-08-07,2,2023-04-13,847,2.90,1.00,20.00,3.80,43.00
+Europe,Canada,Sports,Online,Medium,2023-04-04,3,2023-04-15,994,6.40,3.60,15.70,19.70,35.50
+Europe,India,Food,Offline,Low,2022-05-13,4,2023-04-13,116,0.60,2.90,50.70,32.90,34.40
+South America,Brazil,Clothing,Offline,Medium,2022-11-15,5,2023-04-13,912,1.80,1.70,75.20,15.20,20.30
+Asia,Brazil,Sports,Online,Medium,2023-01-24,6,2023-04-15,203,4.00,3.70,90.70,39.80,25.00
+Australia,Japan,Toys,Offline,Medium,2022-04-12,7,2023-04-10,130,7.40,1.00,90.70,44.90,33.20
+Australia,Mexico,Clothing,Offline,Low,2022-05-14,8,2023-04-13,786,8.70,4.60,25.70,12.50,34.40
+North America,UK,Sports,Online,High,2022-12-15,9,2023-04-14,621,0.30,4.70,67.50,16.30,18.70
+Asia,Germany,Furniture,Offline,Medium,2023-01-07,10,2023-04-15,937,5.40,0.50,82.80,43.10,30.80
+Europe,UK,Food,Offline,Low,2023-01-10,11,2023-04-12,938,9.80,4.50,48.40,42.60,11.80
+North America,Canada,Furniture,Online,Medium,2023-03-30,12,2023-04-09,584,7.60,1.00,18.70,5.40,3.90
+North America,Brazil,Electronics,Online,Low,2022-09-03,13,2023-04-13,504,4.50,4.10,23.80,23.00,37.40
+Europe,Australia,Food,Offline,Low,2023-02-15,14,2023-04-10,586,6.50,4.50,75.00,38.00,43.10
+Australia,USA,Electronics,Offline,High,2022-07-18,15,2023-04-09,509,0.50,3.80,98.50,6.90,34.60
+Europe,France,Sports,Online,High,2022-07-29,16,2023-04-13,989,7.90,2.20,68.50,33.80,13.80
+South America,Argentina,Furniture,Online,Low,2022-09-07,17,2023-04-15,169,4.10,2.30,23.60,6.00,13.80
+North America,China,Sports,Online,High,2023-01-06,18,2023-04-15,350,3.80,2.60,69.00,43.00,3.30
+Europe,Brazil,Sports,Offline,Medium,2023-03-12,19,2023-04-10,90,7.80,2.50,14.40,8.50,47.20
+Europe,Australia,Furniture,Offline,Low,2022-08-30,20,2023-04-13,911,0.70,4.30,40.00,3.90,43.20
+Europe,Brazil,Electronics,Offline,High,2022-08-15,21,2023-04-15,864,2.30,3.30,3.90,7.60,41.10
+South America,UK,Toys,Offline,Low,2022-12-28,22,2023-04-09,421,0.40,1.20,95.40,47.10,21.50
+Australia,Japan,Toys,Offline,Low,2022-05-31,23,2023-04-14,785,0.50,3.50,9.60,30.20,18.00
+North America,Japan,Sports,Offline,High,2023-01-11,24,2023-04-15,689,3.90,4.00,30.00,14.10,10.30
+South America,India,Furniture,Offline,Low,2022-06-28,25,2023-04-09,580,6.20,4.40,41.20,33.10,31.00
+North America,China,Toys,Online,High,2022-06-17,26,2023-04-10,971,5.60,0.80,0.40,26.50,1.90
+South America,Mexico,Electronics,Offline,High,2022-09-22,27,2023-04-11,393,6.10,0.70,34.90,31.00,40.40
+Australia,Germany,Food,Offline,Low,2022-04-13,28,2023-04-12,833,0.30,0.80,49.10,45.60,34.70
+Europe,Canada,Electronics,Online,Low,2022-07-21,29,2023-04-15,206,8.40,1.40,96.20,12.30,39.90
+Europe,France,Food,Offline,Low,2023-01-24,30,2023-04-15,378,8.60,0.50,41.40,7.00,13.20
+South America,Mexico,Toys,Offline,Low,2022-06-09,31,2023-04-09,387,9.70,0.80,89.50,12.90,15.10
+Australia,China,Clothing,Offline,Low,2023-01-01,32,2023-04-10,911,8.90,0.40,32.20,42.70,43.30
+South America,Australia,Electronics,Offline,Low,2022-04-18,33,2023-04-13,43,0.30,3.10,61.80,6.00,45.10
+North America,Germany,Sports,Online,Medium,2023-01-09,34,2023-04-14,772,1.60,2.10,88.30,37.60,39.70
+North America,Brazil,Electronics,Online,High,2022-10-30,35,2023-04-13,257,3.70,0.50,15.50,7.70,33.40
+Asia,Germany,Furniture,Offline,Low,2022-08-18,36,2023-04-11,937,3.10,1.70,72.70,38.10,49.40
+Europe,France,Toys,Online,High,2022-07-20,37,2023-04-14,491,9.90,0.20,50.80,9.50,13.30
+South America,Japan,Furniture,Online,High,2022-11-24,38,2023-04-13,662,6.00,3.60,20.20,3.60,13.90
+Europe,Mexico,Electronics,Online,High,2023-02-02,39,2023-04-14,426,8.00,1.80,59.40,35.90,14.60
+Asia,India,Food,Offline,Low,2022-10-09,40,2023-04-14,739,1.20,3.10,12.10,15.20,10.90
+Europe,UK,Sports,Online,Low,2023-01-19,41,2023-04-12,28,6.80,3.20,93.70,18.80,14.10
+Asia,UK,Furniture,Online,Medium,2022-11-08,42,2023-04-14,792,0.70,1.60,50.30,3.60,7.70
+Australia,France,Clothing,Offline,Low,2023-02-24,43,2023-04-13,553,1.90,2.20,59.00,26.00,23.40
+South America,India,Food,Online,Low,2023-01-27,44,2023-04-15,306,2.40,4.30,27.80,47.90,45.70
+North America,China,Sports,Online,Low,2022-08-21,45,2023-04-09,119,2.10,1.00,8.90,19.70,14.10
+Australia,Germany,Food,Offline,High,2022-04-21,46,2023-04-15,261,0.20,0.40,39.50,21.70,9.80
+South America,Canada,Furniture,Online,Low,2022-10-23,47,2023-04-15,173,1.60,1.00,37.30,32.40,7.10
+Europe,China,Toys,Offline,Low,2022-04-26,48,2023-04-12,260,0.70,0.20,31.90,1.50,44.90
+Australia,Argentina,Sports,Offline,Medium,2022-10-06,49,2023-04-14,370,8.50,3.10,52.90,32.90,1.30
+Australia,UK,Sports,Online,High,2022-09-21,50,2023-04-14,755,9.10,0.10,25.10,33.70,6.80
+Europe,France,Food,Offline,Medium,2022-09-17,51,2023-04-09,559,2.90,0.40,90.40,28.10,15.50
+South America,UK,Electronics,Offline,Medium,2023-01-24,52,2023-04-11,891,10.00,0.60,51.30,10.00,33.80
+Australia,Canada,Toys,Online,Low,2022-12-16,53,2023-04-12,660,9.10,0.30,52.20,29.10,43.80
+North America,Canada,Food,Offline,Medium,2023-02-01,54,2023-04-09,344,8.70,4.60,40.90,19.00,25.20
+South America,UK,Electronics,Online,Low,2022-07-31,55,2023-04-13,749,1.10,1.10,97.30,10.50,3.90
+Europe,France,Toys,Online,Low,2022-04-21,56,2023-04-09,920,2.30,4.80,1.10,46.30,48.80
+Asia,Japan,Sports,Online,Low,2023-02-15,57,2023-04-15,219,9.10,2.60,8.00,22.70,49.90
+North America,Germany,Sports,Online,Medium,2022-09-17,58,2023-04-09,269,1.60,3.40,30.20,40.60,43.90
+Australia,Argentina,Toys,Offline,Medium,2022-07-05,59,2023-04-15,715,5.00,1.60,1.10,14.90,22.80
+South America,France,Electronics,Online,High,2022-09-08,60,2023-04-14,656,5.30,0.10,19.30,8.60,40.10
+Australia,Japan,Electronics,Online,Medium,2022-11-06,61,2023-04-10,971,4.30,0.50,67.70,49.10,40.70
+Australia,France,Furniture,Offline,Medium,2023-03-07,62,2023-04-13,96,1.40,2.40,91.70,18.90,1.00
+Europe,Argentina,Food,Offline,Medium,2022-08-22,63,2023-04-12,482,9.70,2.10,61.30,39.80,31.10
+Europe,Germany,Toys,Online,High,2023-01-23,64,2023-04-11,613,0.80,1.80,92.50,30.10,46.10
+South America,China,Furniture,Online,Low,2023-03-21,65,2023-04-09,736,5.70,0.60,78.00,22.80,16.10
+Australia,UK,Sports,Offline,High,2022-09-09,66,2023-04-09,56,9.30,2.60,57.70,27.90,40.10
+Australia,USA,Toys,Offline,High,2023-01-27,67,2023-04-09,651,8.60,3.50,35.60,17.50,22.00
+South America,Japan,Furniture,Online,High,2022-06-12,68,2023-04-13,101,2.70,2.00,20.20,46.00,31.30
+Europe,Argentina,Food,Online,High,2022-08-15,69,2023-04-10,230,2.20,1.30,59.80,26.80,40.30
+North America,Japan,Clothing,Online,Medium,2022-06-11,70,2023-04-13,524,1.60,2.70,84.40,18.90,44.30
+Asia,Argentina,Sports,Offline,Medium,2022-11-30,71,2023-04-12,895,4.50,1.10,76.30,6.90,42.40
+Europe,Argentina,Furniture,Online,Low,2022-10-07,72,2023-04-15,889,9.00,4.90,92.30,23.70,35.20
+North America,Mexico,Electronics,Offline,Low,2022-10-02,73,2023-04-11,8,7.00,0.60,51.10,1.70,45.30
+South America,Australia,Furniture,Offline,Medium,2022-06-07,74,2023-04-15,470,4.60,0.90,98.90,33.00,26.90
+Europe,Brazil,Sports,Online,High,2022-06-21,75,2023-04-15,799,3.30,1.20,1.00,35.30,18.50
+Europe,India,Sports,Online,Medium,2022-10-05,76,2023-04-09,371,1.00,4.50,45.30,19.60,17.30
+Asia,Germany,Clothing,Online,Medium,2022-09-17,77,2023-04-11,841,5.40,0.40,10.20,38.60,22.20
+North America,Germany,Clothing,Offline,Medium,2022-11-15,78,2023-04-09,200,4.20,1.80,66.70,37.80,32.60
+Europe,Germany,Sports,Offline,Low,2023-01-02,79,2023-04-10,48,10.00,4.70,86.50,4.70,45.20
+Asia,Australia,Sports,Online,Medium,2022-05-25,80,2023-04-12,127,0.10,1.20,48.30,18.70,3.50
+Asia,India,Clothing,Offline,Medium,2022-12-06,81,2023-04-14,383,0.10,0.60,69.40,12.50,24.60
+Europe,Argentina,Sports,Offline,Low,2022-04-25,82,2023-04-14,48,7.70,0.70,47.60,2.10,9.90
+Australia,France,Toys,Offline,Medium,2022-12-24,83,2023-04-14,828,5.90,2.00,44.90,16.60,37.50
+South America,Germany,Furniture,Online,High,2022-09-22,84,2023-04-11,428,8.10,1.20,51.30,24.60,37.20
+Australia,China,Food,Offline,High,2022-07-25,85,2023-04-13,1000,4.60,4.40,19.10,42.90,14.10
+South America,UK,Electronics,Offline,Medium,2023-03-16,86,2023-04-12,946,5.40,1.90,96.80,5.50,20.40
+Australia,India,Furniture,Online,High,2023-04-01,87,2023-04-12,208,0.10,0.50,88.20,22.20,10.50
+South America,Germany,Sports,Offline,High,2022-12-21,88,2023-04-12,190,2.60,1.40,77.70,42.90,36.60
+Europe,UK,Sports,Offline,Low,2022-07-07,89,2023-04-15,488,5.60,4.00,40.20,13.80,25.20
+North America,Germany,Furniture,Online,Medium,2022-11-30,90,2023-04-11,841,0.80,4.10,14.20,25.20,29.00
+Asia,Argentina,Furniture,Offline,Low,2023-01-27,91,2023-04-11,855,7.20,0.30,89.40,1.20,31.30
+Europe,India,Food,Offline,Medium,2022-04-29,92,2023-04-13,592,8.60,1.10,28.30,12.40,35.30
+Asia,Canada,Toys,Online,Medium,2023-01-27,93,2023-04-15,457,8.70,4.40,5.20,34.60,33.00
+North America,USA,Food,Online,Low,2023-01-31,94,2023-04-11,831,4.10,2.50,80.50,26.80,31.50
+North America,Japan,Toys,Online,High,2022-08-10,95,2023-04-15,336,9.50,4.90,83.10,23.00,44.70
+Europe,Mexico,Toys,Online,Medium,2022-04-27,96,2023-04-15,128,4.60,1.80,98.80,0.10,46.30
+Europe,Germany,Sports,Online,Low,2023-01-07,97,2023-04-09,60,2.90,0.20,86.50,32.20,42.20
+Europe,Japan,Clothing,Online,Low,2022-07-04,98,2023-04-15,974,6.10,0.70,58.40,17.90,36.70
+North America,China,Clothing,Offline,High,2022-07-30,99,2023-04-15,300,3.10,0.70,70.10,44.30,20.90
+North America,India,Furniture,Offline,Low,2022-09-12,100,2023-04-11,191,3.80,1.00,61.90,49.70,44.80
+Europe,India,Toys,Offline,High,2022-04-13,101,2023-04-13,816,0.50,1.20,68.40,8.10,47.90
+Australia,France,Clothing,Offline,High,2022-12-06,102,2023-04-12,839,4.00,2.30,65.50,21.80,35.80
+Europe,UK,Toys,Online,Medium,2023-01-26,103,2023-04-10,10,1.60,3.20,45.20,34.90,7.90
+Europe,Germany,Sports,Online,High,2022-10-09,104,2023-04-13,407,0.90,0.20,70.40,9.80,2.90
+South America,Japan,Toys,Offline,Medium,2023-01-22,105,2023-04-11,685,1.90,0.30,94.00,43.80,16.40
+South America,USA,Food,Online,High,2023-02-22,106,2023-04-09,501,2.60,4.70,54.70,15.80,3.00
+North America,UK,Food,Online,Medium,2022-04-30,107,2023-04-09,531,0.70,1.10,18.30,39.40,48.10
+South America,UK,Food,Online,Low,2023-01-30,108,2023-04-10,50,0.80,1.90,56.70,48.90,31.90
+Europe,Japan,Furniture,Online,Medium,2023-01-20,109,2023-04-11,879,8.80,2.10,20.40,24.30,0.10
+South America,Brazil,Clothing,Online,Medium,2022-10-03,110,2023-04-09,237,6.70,4.30,11.40,12.70,36.10
+Australia,Germany,Toys,Offline,High,2023-01-12,111,2023-04-13,994,6.80,3.70,99.30,45.70,17.40
+Australia,India,Electronics,Offline,High,2022-11-17,112,2023-04-14,934,8.50,1.90,95.20,14.80,42.10
+North America,Australia,Furniture,Online,Medium,2022-08-14,113,2023-04-14,222,8.60,3.60,29.20,10.30,4.40
+North America,Germany,Electronics,Offline,Low,2023-02-26,114,2023-04-15,483,5.90,4.70,50.40,21.00,17.20
+Europe,France,Sports,Online,High,2022-04-14,115,2023-04-14,643,0.50,3.10,51.60,38.90,9.70
+Asia,Brazil,Sports,Online,Low,2022-06-03,116,2023-04-14,955,9.80,1.60,25.50,41.00,11.40
+Asia,China,Electronics,Offline,Low,2022-09-10,117,2023-04-12,669,4.00,1.60,89.90,9.80,7.90
+Asia,France,Furniture,Offline,High,2022-11-13,118,2023-04-15,629,0.50,0.80,62.30,42.20,10.20
+Asia,UK,Toys,Online,Low,2022-06-20,119,2023-04-14,210,6.40,4.40,74.70,5.60,48.20
+Asia,Germany,Clothing,Online,Medium,2022-10-11,120,2023-04-13,817,8.40,4.80,2.90,39.80,13.30
+Europe,Argentina,Clothing,Online,Medium,2022-07-30,121,2023-04-09,20,0.60,0.30,94.90,0.10,12.80
+Asia,Mexico,Clothing,Online,Medium,2023-02-04,122,2023-04-15,21,8.90,4.90,60.50,9.60,48.10
+Asia,USA,Furniture,Online,High,2023-01-16,123,2023-04-12,34,1.20,1.80,50.60,6.40,20.00
+Europe,Japan,Food,Offline,High,2022-12-19,124,2023-04-13,247,3.70,3.40,90.30,40.30,15.00
+Australia,Mexico,Food,Online,Low,2022-08-06,125,2023-04-12,785,8.70,0.40,55.20,21.70,44.70
+North America,UK,Food,Online,Medium,2022-06-07,126,2023-04-12,232,2.30,3.50,57.20,48.40,20.20
+Europe,Mexico,Clothing,Online,Low,2022-10-07,127,2023-04-13,188,1.20,0.60,42.00,10.80,33.70
+Europe,UK,Clothing,Online,High,2022-07-11,128,2023-04-15,656,5.20,1.70,3.40,30.20,21.90
+Asia,UK,Electronics,Offline,Low,2023-02-05,129,2023-04-14,923,5.80,0.50,67.50,39.20,17.20
+Australia,India,Toys,Online,Low,2023-03-16,130,2023-04-15,545,1.40,1.10,12.30,18.90,12.80
+North America,India,Electronics,Online,Low,2023-02-28,131,2023-04-12,482,3.80,3.40,38.00,28.70,13.00
+Europe,Brazil,Food,Online,High,2022-07-31,132,2023-04-13,774,6.10,0.20,78.60,15.10,33.60
+North America,Japan,Food,Online,High,2022-10-15,133,2023-04-09,488,8.90,4.40,32.80,45.60,47.10
+South America,France,Toys,Offline,Low,2023-03-21,134,2023-04-11,944,9.10,0.60,47.50,30.60,26.40
+Asia,Canada,Furniture,Offline,Low,2022-11-23,135,2023-04-11,911,2.40,0.90,1.40,25.80,1.00
+North America,Japan,Clothing,Online,Low,2023-03-09,136,2023-04-13,781,5.70,0.40,14.80,27.30,43.20
+South America,Germany,Food,Online,High,2022-08-14,137,2023-04-15,707,8.70,2.10,30.50,0.40,8.50
+North America,France,Clothing,Offline,Medium,2022-11-20,138,2023-04-14,680,5.30,4.00,11.10,27.20,1.70
+Asia,India,Electronics,Online,Medium,2022-09-27,139,2023-04-09,604,0.90,3.30,88.90,39.80,24.70
+South America,India,Food,Offline,Low,2022-08-04,140,2023-04-09,908,9.40,5.00,2.70,47.00,12.30
+Europe,France,Furniture,Offline,High,2022-10-27,141,2023-04-10,937,5.10,3.50,22.80,16.30,16.70
+Australia,USA,Clothing,Offline,Low,2022-10-08,142,2023-04-12,602,0.50,0.50,96.30,46.20,3.00
+Asia,Brazil,Electronics,Online,Medium,2022-09-24,143,2023-04-11,373,5.20,3.70,13.20,24.40,38.60
+North America,Argentina,Sports,Online,Medium,2022-09-10,144,2023-04-15,208,8.50,4.40,27.80,2.30,10.10
+Asia,Brazil,Electronics,Online,Low,2022-07-28,145,2023-04-11,425,5.60,3.00,59.30,14.00,26.00
+Asia,Argentina,Food,Offline,Low,2023-02-25,146,2023-04-14,227,9.50,1.60,92.90,22.70,2.40
+Europe,Germany,Furniture,Online,Medium,2022-08-20,147,2023-04-11,729,2.20,3.40,82.00,43.80,8.40
+Europe,Argentina,Toys,Online,Low,2022-08-01,148,2023-04-10,620,9.10,0.80,55.60,3.60,24.50
+Europe,France,Sports,Offline,Low,2022-05-10,149,2023-04-12,725,6.20,4.60,1.90,15.60,37.50
+Europe,Brazil,Food,Offline,Low,2022-08-15,150,2023-04-10,272,8.90,1.70,96.30,40.60,39.20
+North America,Canada,Electronics,Offline,Low,2022-05-31,151,2023-04-15,994,4.20,2.90,33.10,39.60,22.70
+Australia,UK,Food,Online,Medium,2022-10-29,152,2023-04-11,272,5.30,3.80,81.70,30.60,31.90
+Europe,Germany,Toys,Offline,Medium,2022-12-19,153,2023-04-12,432,9.00,3.20,22.00,7.10,0.40
+North America,USA,Furniture,Offline,Low,2022-11-17,154,2023-04-09,382,6.90,4.20,21.70,48.20,14.00
+North America,USA,Clothing,Offline,Low,2023-02-01,155,2023-04-15,785,6.10,2.20,2.30,21.70,43.00
+South America,Australia,Toys,Offline,Medium,2022-09-24,156,2023-04-12,506,2.50,1.00,75.50,17.40,32.90
+Asia,Australia,Sports,Offline,Medium,2022-07-09,157,2023-04-10,408,1.70,3.10,31.90,30.30,23.10
+North America,Australia,Electronics,Online,Low,2022-05-25,158,2023-04-10,664,1.30,0.10,36.10,40.50,29.20
+South America,Brazil,Sports,Offline,High,2022-05-10,159,2023-04-12,180,2.50,1.70,65.10,2.00,15.80
+Asia,Mexico,Furniture,Online,Medium,2022-07-17,160,2023-04-13,206,5.30,3.10,40.80,20.70,19.00
+Asia,UK,Clothing,Offline,Low,2022-09-16,161,2023-04-11,470,1.80,4.80,26.00,25.60,36.30
+South America,France,Furniture,Offline,Medium,2022-06-26,162,2023-04-15,677,4.70,2.30,16.60,19.00,28.30
+Europe,India,Sports,Online,Medium,2022-12-09,163,2023-04-11,12,1.80,2.40,10.10,12.30,45.60
+North America,USA,Sports,Online,Medium,2023-02-08,164,2023-04-10,971,8.30,1.50,40.40,47.00,3.70
+North America,France,Food,Online,Medium,2022-07-22,165,2023-04-13,130,3.90,1.80,66.40,0.50,24.10
+Australia,Brazil,Furniture,Offline,Medium,2022-10-06,166,2023-04-15,833,3.80,2.90,48.40,35.90,22.90
+Australia,China,Furniture,Online,High,2023-02-11,167,2023-04-15,977,2.70,4.80,4.30,17.90,7.00
+North America,Japan,Sports,Online,High,2022-09-11,168,2023-04-12,729,5.00,0.10,69.40,49.40,26.50
+North America,Brazil,Electronics,Online,Medium,2022-08-26,169,2023-04-13,68,7.20,3.70,46.90,5.20,2.30
+North America,Mexico,Food,Offline,Medium,2023-03-26,170,2023-04-09,289,6.20,2.80,24.30,22.30,22.50
+North America,Argentina,Clothing,Offline,Low,2022-09-30,171,2023-04-15,26,3.90,0.30,13.70,48.10,16.40
+Asia,France,Electronics,Offline,Low,2023-01-31,172,2023-04-09,211,4.00,2.00,98.00,3.80,22.50
+South America,China,Food,Offline,High,2022-07-14,173,2023-04-11,755,5.50,1.10,35.50,15.20,28.10
+South America,Japan,Clothing,Online,Medium,2022-08-13,174,2023-04-09,392,7.90,4.60,86.10,30.40,40.70
+Europe,India,Toys,Online,Medium,2022-12-10,175,2023-04-13,35,8.70,0.20,77.50,23.30,6.00
+Europe,Japan,Electronics,Online,High,2023-03-17,176,2023-04-12,676,3.30,2.40,85.10,41.50,42.50
+Australia,USA,Sports,Online,Low,2023-02-23,177,2023-04-15,195,0.40,4.70,38.00,31.80,42.70
+Asia,India,Toys,Offline,Medium,2022-06-09,178,2023-04-14,546,9.90,2.20,22.10,3.40,3.00
+North America,Germany,Food,Online,High,2022-08-26,179,2023-04-09,314,10.00,3.80,49.30,35.50,29.70
+South America,India,Food,Offline,High,2022-06-29,180,2023-04-13,635,9.60,0.50,74.80,31.30,35.70
+Australia,France,Toys,Online,Medium,2022-09-24,181,2023-04-10,11,1.60,1.90,11.30,8.10,17.50
+Europe,Mexico,Electronics,Online,High,2022-10-31,182,2023-04-10,727,8.00,4.30,20.80,47.10,9.10
+North America,Mexico,Food,Online,High,2022-07-12,183,2023-04-12,449,3.10,3.30,31.30,42.30,9.20
+North America,Argentina,Furniture,Offline,Low,2022-04-22,184,2023-04-14,868,5.50,3.40,75.80,11.50,8.70
+Australia,China,Food,Online,Medium,2022-04-22,185,2023-04-14,595,9.90,0.50,28.10,41.90,13.20
+South America,UK,Furniture,Online,High,2022-12-26,186,2023-04-12,879,8.50,4.40,31.70,25.80,33.80
+South America,Germany,Food,Online,Low,2023-04-07,187,2023-04-13,303,6.00,4.50,63.30,13.60,38.00
+Australia,Brazil,Toys,Online,High,2022-11-18,188,2023-04-14,639,4.60,0.80,49.60,39.20,30.40
+South America,USA,Toys,Offline,Low,2022-07-22,189,2023-04-12,690,3.20,2.60,32.80,18.20,42.50
+Europe,Mexico,Food,Offline,Low,2022-07-08,190,2023-04-12,311,0.90,3.50,80.70,11.00,21.40
+North America,China,Food,Offline,High,2023-02-04,191,2023-04-14,164,1.40,4.50,16.10,40.60,4.70
+Asia,Mexico,Electronics,Online,Medium,2022-12-23,192,2023-04-12,166,5.00,1.20,65.60,42.50,8.80
+Australia,China,Food,Online,Low,2022-11-21,193,2023-04-11,437,6.40,2.30,42.70,49.00,6.10
+North America,Mexico,Furniture,Online,High,2022-12-23,194,2023-04-11,44,9.00,4.00,43.80,23.40,26.30
+North America,France,Clothing,Offline,Low,2022-09-05,195,2023-04-12,927,2.30,0.30,92.10,32.20,14.90
+Asia,China,Furniture,Offline,Low,2022-05-26,196,2023-04-14,542,1.40,4.40,35.30,7.20,34.20
+South America,USA,Clothing,Offline,Low,2023-03-29,197,2023-04-11,433,7.60,4.70,63.70,33.30,32.70
+South America,India,Furniture,Offline,Medium,2022-08-03,198,2023-04-13,90,8.30,3.70,67.30,13.90,21.00
+North America,Mexico,Sports,Online,High,2022-04-15,199,2023-04-12,352,1.70,3.00,52.00,47.40,18.10
+Europe,USA,Toys,Offline,High,2023-03-31,200,2023-04-15,737,0.40,3.40,9.80,4.70,33.20
+South America,India,Toys,Online,High,2023-02-22,201,2023-04-15,617,8.80,0.30,96.00,12.30,45.90
+South America,Brazil,Toys,Online,Low,2022-09-10,202,2023-04-13,580,9.80,1.40,2.50,14.00,3.90
+Australia,USA,Sports,Online,High,2022-12-03,203,2023-04-13,901,0.80,3.80,99.50,37.60,40.80
+South America,Japan,Furniture,Offline,High,2023-02-15,204,2023-04-09,252,6.10,2.10,98.90,13.60,39.50
+South America,India,Toys,Online,High,2022-05-15,205,2023-04-14,773,4.70,4.50,3.50,6.90,15.20
+South America,Mexico,Sports,Online,High,2022-09-27,206,2023-04-12,466,5.60,4.90,84.40,31.60,30.10
+Australia,Germany,Electronics,Offline,Medium,2022-06-03,207,2023-04-09,586,2.70,0.10,62.20,48.90,27.00
+South America,Brazil,Food,Offline,High,2022-12-31,208,2023-04-12,410,7.40,0.90,56.50,2.50,32.20
+Australia,Argentina,Toys,Offline,Low,2022-11-04,209,2023-04-12,829,8.10,1.90,80.00,31.50,49.30
+Europe,Japan,Clothing,Offline,High,2023-02-03,210,2023-04-12,165,3.90,2.10,79.60,34.30,10.60
+Europe,Mexico,Sports,Online,Low,2022-10-17,211,2023-04-11,132,9.80,4.60,68.40,32.40,38.40
+South America,China,Clothing,Online,Medium,2022-11-16,212,2023-04-10,169,5.40,3.70,62.30,12.80,7.90
+Asia,China,Food,Offline,Low,2022-08-16,213,2023-04-13,24,7.80,1.20,87.40,30.70,32.90
+Asia,China,Food,Online,High,2022-12-17,214,2023-04-10,615,8.50,3.50,2.70,23.90,27.00
+Asia,Canada,Toys,Online,Medium,2022-10-31,215,2023-04-10,390,5.40,0.60,68.30,41.40,26.60
+South America,France,Clothing,Online,Low,2022-05-16,216,2023-04-13,979,9.80,1.50,44.80,7.60,27.70
+North America,Germany,Sports,Online,High,2022-10-05,217,2023-04-13,765,3.80,2.60,60.40,45.20,36.90
+Australia,USA,Electronics,Offline,High,2023-01-31,218,2023-04-13,413,9.20,3.40,74.90,48.90,21.60
+South America,Mexico,Food,Offline,High,2022-10-16,219,2023-04-12,980,0.70,3.10,83.10,5.80,7.60
+South America,Germany,Toys,Online,High,2022-10-16,220,2023-04-15,3,5.00,0.40,92.80,45.90,37.20
+Australia,France,Food,Online,Medium,2023-01-04,221,2023-04-10,540,1.10,4.30,23.40,37.80,2.30
+Asia,USA,Furniture,Offline,Low,2022-08-30,222,2023-04-15,202,4.80,3.50,49.60,13.10,48.40
+Europe,UK,Electronics,Online,Low,2022-05-10,223,2023-04-11,495,2.30,2.40,57.00,12.80,29.90
+South America,UK,Furniture,Online,Low,2022-09-28,224,2023-04-10,719,8.70,1.00,3.20,33.70,20.70
+Europe,Argentina,Clothing,Offline,High,2022-07-19,225,2023-04-13,637,4.30,3.40,98.80,16.80,32.30
+Asia,China,Toys,Offline,Medium,2022-08-10,226,2023-04-14,628,9.50,0.80,85.60,30.40,20.60
+Europe,USA,Toys,Online,Low,2022-07-07,227,2023-04-14,278,6.50,4.80,24.50,4.30,41.30
+North America,Australia,Clothing,Online,High,2022-09-18,228,2023-04-12,18,0.20,2.40,84.40,12.20,11.30
+Europe,France,Electronics,Online,Low,2022-09-22,229,2023-04-09,232,1.70,2.40,41.60,42.80,24.80
+Australia,Brazil,Toys,Online,Medium,2022-05-08,230,2023-04-09,104,2.50,4.20,84.60,44.30,3.60
+Europe,China,Clothing,Online,High,2022-08-07,231,2023-04-12,280,2.50,1.10,15.40,22.50,11.40
+South America,Brazil,Sports,Online,Low,2023-02-08,232,2023-04-14,403,2.90,0.40,41.40,27.30,15.80
+South America,UK,Electronics,Offline,Low,2022-06-16,233,2023-04-13,278,4.40,4.00,52.20,14.40,22.20
+Asia,Australia,Electronics,Offline,Low,2022-12-20,234,2023-04-11,11,1.00,4.80,16.40,22.60,0.50
+Europe,Japan,Electronics,Offline,High,2022-08-16,235,2023-04-13,359,4.10,4.90,18.00,47.00,43.20
+Australia,Japan,Toys,Online,Medium,2022-07-22,236,2023-04-10,571,3.10,0.90,20.50,3.10,14.20
+Australia,Argentina,Clothing,Offline,Medium,2022-11-07,237,2023-04-13,440,6.30,1.20,93.90,28.50,11.20
+Australia,Argentina,Clothing,Offline,Medium,2022-09-29,238,2023-04-15,170,8.50,0.90,88.60,10.60,32.20
+North America,Japan,Sports,Offline,Low,2022-07-19,239,2023-04-10,190,8.00,2.10,64.40,23.10,48.00
+South America,Argentina,Sports,Offline,Low,2022-12-30,240,2023-04-15,469,6.80,1.60,96.60,34.10,31.80
+South America,India,Electronics,Online,Low,2023-03-24,241,2023-04-13,89,1.30,0.20,20.80,17.20,18.20
+North America,India,Furniture,Offline,High,2022-11-06,242,2023-04-14,361,1.10,5.00,62.80,0.20,29.00
+Asia,India,Furniture,Offline,Medium,2022-09-03,243,2023-04-15,125,8.90,1.90,44.00,13.90,28.00
+Asia,Argentina,Food,Online,Medium,2023-02-22,244,2023-04-11,179,0.10,0.70,64.70,30.50,5.30
+Europe,China,Toys,Offline,Low,2023-03-25,245,2023-04-13,209,9.60,3.00,52.20,49.60,27.80
+South America,India,Electronics,Online,Low,2022-11-01,246,2023-04-11,111,7.60,4.70,20.80,12.30,18.30
+Asia,China,Electronics,Online,Medium,2023-04-02,247,2023-04-15,526,2.70,3.20,18.00,29.80,34.50
+Australia,Australia,Food,Offline,High,2023-03-17,248,2023-04-12,753,7.60,1.20,10.20,36.90,16.10
+Europe,China,Electronics,Offline,Medium,2022-05-25,249,2023-04-14,157,9.30,4.60,80.50,6.60,31.30
+Europe,China,Toys,Offline,High,2022-10-20,250,2023-04-12,108,2.40,1.00,28.40,45.80,23.00
+Australia,UK,Toys,Offline,Medium,2022-07-07,251,2023-04-12,239,7.10,4.30,22.30,41.50,44.70
+Asia,India,Toys,Offline,Medium,2022-11-10,252,2023-04-09,700,2.90,3.00,72.10,13.10,0.60
+South America,India,Toys,Offline,High,2022-06-04,253,2023-04-10,218,3.00,5.00,57.80,30.50,49.00
+North America,India,Toys,Online,Low,2023-02-13,254,2023-04-10,767,6.50,1.50,50.80,10.60,48.20
+Asia,Canada,Clothing,Online,Medium,2022-06-28,255,2023-04-12,35,8.30,2.20,91.40,25.40,21.10
+South America,Japan,Electronics,Online,High,2022-12-13,256,2023-04-13,173,3.30,1.70,75.60,28.80,45.70
+Asia,USA,Clothing,Online,Low,2022-08-08,257,2023-04-09,266,3.60,3.70,47.20,48.20,48.80
+South America,Brazil,Toys,Online,Medium,2022-09-13,258,2023-04-15,263,4.70,4.80,60.50,42.10,42.90
+Asia,USA,Electronics,Offline,Medium,2023-02-23,259,2023-04-15,149,1.50,0.60,64.50,33.40,31.10
+Europe,Brazil,Furniture,Online,High,2022-09-23,260,2023-04-10,497,0.80,3.90,37.10,8.80,7.30
+Asia,Australia,Electronics,Online,Low,2022-12-30,261,2023-04-10,560,8.90,4.90,73.20,43.70,49.30
+Australia,Brazil,Toys,Online,Medium,2022-12-12,262,2023-04-14,502,7.90,1.20,16.10,21.70,5.80
+Australia,China,Furniture,Offline,Low,2022-06-09,263,2023-04-09,937,8.70,2.30,64.30,7.30,19.80
+North America,UK,Electronics,Offline,High,2022-11-12,264,2023-04-14,577,5.80,4.60,47.30,5.10,45.40
+South America,Canada,Toys,Offline,High,2022-07-07,265,2023-04-12,667,1.70,0.30,71.30,1.90,1.60
+Australia,Canada,Sports,Online,Low,2022-12-03,266,2023-04-13,267,2.30,2.30,90.10,36.90,45.50
+North America,Mexico,Toys,Offline,High,2022-12-20,267,2023-04-10,422,4.70,2.40,75.70,41.90,28.60
+North America,Japan,Electronics,Offline,Medium,2022-07-08,268,2023-04-15,255,0.10,1.90,82.50,43.70,1.80
+Europe,China,Food,Online,High,2022-08-29,269,2023-04-10,735,1.10,4.80,12.40,11.90,43.70
+Australia,Canada,Toys,Offline,High,2022-06-06,270,2023-04-12,136,9.20,3.00,41.50,29.30,35.50
+North America,Germany,Sports,Offline,Medium,2022-06-28,271,2023-04-12,296,3.10,0.30,39.80,19.80,11.00
+South America,Australia,Food,Online,High,2022-11-01,272,2023-04-15,259,9.40,3.10,38.20,7.30,17.10
+Europe,USA,Food,Online,High,2022-09-08,273,2023-04-14,3,8.70,1.80,79.30,18.30,18.10
+Europe,India,Furniture,Offline,Medium,2023-01-02,274,2023-04-12,613,9.40,2.00,8.50,4.10,33.20
+North America,Japan,Electronics,Online,Medium,2022-12-12,275,2023-04-13,740,2.90,3.20,24.00,23.10,17.20
+Europe,Canada,Electronics,Online,Medium,2022-11-14,276,2023-04-13,463,3.10,4.40,82.40,33.50,36.50
+South America,Japan,Sports,Offline,Medium,2022-07-08,277,2023-04-15,116,2.10,2.60,52.20,14.70,35.00
+Asia,Japan,Toys,Online,Low,2022-08-08,278,2023-04-10,343,0.20,4.60,87.70,38.00,28.10
+Australia,Australia,Furniture,Online,Low,2022-06-15,279,2023-04-09,388,5.60,3.10,98.20,37.50,12.50
+Europe,Mexico,Toys,Offline,Low,2022-05-12,280,2023-04-12,793,3.60,1.60,52.80,46.20,45.50
+Asia,Argentina,Toys,Online,High,2022-07-25,281,2023-04-13,574,6.50,4.20,21.40,49.10,15.70
+South America,Germany,Furniture,Online,Low,2023-01-09,282,2023-04-09,381,7.20,3.50,48.30,16.10,35.70
+Europe,Mexico,Clothing,Offline,High,2023-04-02,283,2023-04-14,533,7.30,3.90,37.10,22.60,44.90
+South America,Mexico,Electronics,Offline,Medium,2022-08-14,284,2023-04-09,573,9.90,4.40,48.10,42.50,27.00
+Europe,China,Toys,Offline,Low,2022-05-28,285,2023-04-11,34,3.20,1.80,82.80,45.80,14.50
+Asia,Canada,Sports,Offline,High,2022-04-22,286,2023-04-10,398,4.90,0.20,3.60,5.10,26.80
+South America,Australia,Electronics,Offline,Low,2022-08-17,287,2023-04-12,459,4.10,1.10,50.20,33.10,2.70
+Europe,Brazil,Sports,Online,High,2023-02-25,288,2023-04-14,594,2.80,0.60,29.30,46.50,31.50
+Europe,Japan,Electronics,Online,Medium,2023-03-09,289,2023-04-15,256,4.20,3.30,98.90,9.20,23.40
+Asia,Argentina,Sports,Offline,Low,2023-02-20,290,2023-04-15,874,9.10,4.70,22.60,25.30,14.60
+South America,Mexico,Toys,Offline,High,2022-12-19,291,2023-04-15,440,4.40,2.40,60.50,43.20,19.10
+Europe,Germany,Clothing,Online,Medium,2022-11-03,292,2023-04-13,292,6.00,0.70,70.30,31.70,19.30
+North America,Germany,Toys,Offline,High,2022-04-16,293,2023-04-15,381,7.70,5.00,70.40,28.50,13.10
+Europe,Australia,Electronics,Offline,Medium,2022-07-07,294,2023-04-10,300,3.10,4.20,81.30,45.10,32.50
+Europe,France,Electronics,Offline,High,2022-04-24,295,2023-04-11,481,5.50,3.20,36.00,20.90,25.30
+Australia,Argentina,Toys,Online,High,2022-11-07,296,2023-04-09,157,4.20,2.00,32.60,27.40,26.40
+North America,Canada,Sports,Offline,Low,2022-09-29,297,2023-04-15,772,1.30,2.90,17.70,49.10,12.30
+Asia,India,Food,Offline,Low,2023-01-26,298,2023-04-12,882,6.80,3.80,38.30,11.20,36.70
+Europe,China,Sports,Offline,High,2022-12-24,299,2023-04-09,973,0.80,1.20,88.50,7.80,39.00
+North America,Brazil,Food,Online,Medium,2022-10-23,300,2023-04-15,45,4.60,1.90,59.90,40.50,25.70
+South America,India,Sports,Offline,Low,2022-08-15,301,2023-04-09,751,6.90,0.50,33.70,15.50,0.70
+Asia,Canada,Toys,Offline,Low,2022-10-29,302,2023-04-15,828,7.50,2.50,70.20,10.70,6.90
+Australia,India,Sports,Offline,Medium,2023-02-06,303,2023-04-09,669,2.90,4.20,59.50,31.80,23.80
+Australia,Canada,Toys,Online,Low,2022-08-19,304,2023-04-11,15,6.00,1.20,40.90,30.70,32.40
+North America,China,Electronics,Online,High,2023-02-17,305,2023-04-11,494,2.80,0.20,80.60,1.90,36.10
+Australia,Argentina,Sports,Online,High,2023-03-26,306,2023-04-13,368,9.40,2.60,43.40,5.00,36.00
+South America,USA,Furniture,Offline,Medium,2022-10-29,307,2023-04-09,837,7.30,3.60,51.10,14.60,48.70
+Europe,Canada,Electronics,Online,Low,2022-09-28,308,2023-04-11,896,8.50,4.60,48.00,22.40,49.00
+Asia,India,Electronics,Online,High,2022-10-16,309,2023-04-11,310,3.80,1.50,55.20,37.60,17.50
+Australia,Japan,Electronics,Online,Low,2022-12-31,310,2023-04-12,181,4.00,3.40,19.90,15.40,6.50
+Asia,USA,Clothing,Online,Low,2022-05-19,311,2023-04-14,776,9.60,4.60,71.10,46.60,12.00
+South America,UK,Sports,Online,High,2022-09-03,312,2023-04-14,459,1.20,1.40,94.70,16.50,0.60
+North America,USA,Clothing,Online,Medium,2022-10-14,313,2023-04-09,512,6.60,2.80,0.90,31.80,27.80
+Australia,Mexico,Furniture,Offline,Low,2022-07-22,314,2023-04-14,652,1.40,2.80,18.80,26.30,48.20
+Asia,China,Clothing,Online,Low,2022-06-11,315,2023-04-14,89,4.80,4.40,73.20,6.20,37.40
+Australia,China,Electronics,Online,Low,2022-05-21,316,2023-04-09,99,4.40,1.70,17.30,45.30,2.00
+Australia,Australia,Clothing,Online,Medium,2022-06-09,317,2023-04-12,450,4.90,3.20,37.00,11.40,7.30
+Europe,India,Toys,Offline,Low,2022-04-09,318,2023-04-15,821,7.40,2.90,99.70,44.40,1.80
+Australia,Germany,Furniture,Online,Low,2022-11-30,319,2023-04-13,955,3.80,0.50,37.50,17.40,36.30
+Europe,Japan,Clothing,Online,Low,2023-01-31,320,2023-04-10,655,8.90,2.80,65.30,17.60,27.80
+North America,Mexico,Toys,Online,Medium,2022-07-28,321,2023-04-13,938,2.90,2.60,32.60,12.50,25.90
+Asia,USA,Food,Offline,Low,2022-12-20,322,2023-04-13,981,4.10,0.20,41.50,41.60,14.40
+Australia,USA,Furniture,Online,Low,2022-06-23,323,2023-04-11,514,9.20,1.90,51.30,24.60,8.50
+Asia,Australia,Sports,Online,Low,2022-09-29,324,2023-04-09,167,3.10,2.60,90.20,46.00,39.80
+Australia,USA,Clothing,Online,High,2022-08-11,325,2023-04-10,246,9.20,3.30,37.60,24.00,24.90
+Europe,India,Food,Online,Low,2023-04-05,326,2023-04-15,220,0.40,3.50,66.50,37.30,23.10
+Europe,India,Toys,Online,High,2023-03-21,327,2023-04-14,181,4.80,3.10,53.70,45.90,8.40
+Europe,Japan,Clothing,Offline,High,2023-03-11,328,2023-04-13,328,2.90,4.90,69.80,15.20,6.40
+Europe,India,Clothing,Offline,Medium,2022-11-21,329,2023-04-10,409,4.20,0.90,65.80,22.60,37.50
+Australia,Australia,Furniture,Online,Medium,2023-03-25,330,2023-04-15,388,3.90,1.60,1.80,31.10,17.90
+Europe,Argentina,Furniture,Offline,Medium,2022-12-11,331,2023-04-10,606,6.10,3.80,35.40,48.60,6.70
+Australia,UK,Furniture,Offline,Low,2022-04-21,332,2023-04-13,586,4.10,4.50,24.40,20.80,13.50
+South America,India,Furniture,Offline,Low,2022-04-12,333,2023-04-09,861,3.20,1.70,6.30,27.10,14.10
+South America,Mexico,Clothing,Offline,High,2022-07-18,334,2023-04-13,194,9.30,0.40,90.60,34.10,30.50
+Europe,Brazil,Toys,Offline,Low,2023-03-28,335,2023-04-09,616,2.90,3.50,83.50,27.90,19.40
+Australia,Canada,Clothing,Online,Medium,2022-04-10,336,2023-04-10,181,3.40,3.80,39.00,21.90,19.50
+Asia,USA,Clothing,Online,Low,2023-02-21,337,2023-04-09,704,8.90,0.30,87.60,46.80,31.70
+Australia,USA,Clothing,Online,High,2022-07-30,338,2023-04-13,382,4.00,4.90,65.30,42.30,29.60
+North America,USA,Electronics,Online,High,2022-11-23,339,2023-04-11,638,6.60,1.20,6.00,41.60,37.60
+South America,Mexico,Toys,Online,Medium,2022-06-06,340,2023-04-09,92,6.80,3.10,18.70,43.20,3.30
+South America,Japan,Food,Online,Medium,2023-03-30,341,2023-04-11,458,6.60,3.50,68.60,28.10,41.70
+Europe,India,Sports,Offline,Medium,2023-03-07,342,2023-04-11,146,3.30,0.10,62.50,41.10,6.60
+South America,Brazil,Sports,Online,High,2022-11-03,343,2023-04-15,607,0.40,2.00,70.00,44.60,3.60
+North America,France,Toys,Offline,High,2022-07-07,344,2023-04-15,505,1.50,3.80,57.00,10.30,19.10
+North America,China,Furniture,Online,High,2022-07-21,345,2023-04-09,279,4.90,3.40,80.10,17.90,11.00
+Asia,China,Toys,Online,Medium,2022-06-21,346,2023-04-11,176,8.20,0.90,92.20,36.90,9.50
+North America,Brazil,Furniture,Offline,Low,2022-12-03,347,2023-04-15,977,6.10,2.10,41.00,25.90,21.80
+Australia,Australia,Food,Online,High,2022-11-15,348,2023-04-14,335,5.50,0.40,54.60,25.00,19.60
+Australia,Argentina,Furniture,Online,Medium,2022-12-22,349,2023-04-12,786,9.80,2.60,91.90,36.70,31.40
+South America,Mexico,Toys,Offline,Low,2022-06-16,350,2023-04-15,227,7.90,3.90,25.90,13.50,2.50
+Asia,Canada,Sports,Online,Low,2022-05-03,351,2023-04-12,46,6.20,0.20,38.90,30.60,44.50
+Australia,Mexico,Clothing,Online,Medium,2023-01-07,352,2023-04-10,476,2.20,4.90,48.90,36.00,6.90
+North America,USA,Clothing,Offline,High,2022-07-27,353,2023-04-09,636,5.20,2.30,18.40,20.40,49.90
+Asia,China,Sports,Offline,High,2022-09-14,354,2023-04-09,358,1.80,2.00,49.20,7.30,33.60
+Australia,USA,Toys,Online,High,2022-09-29,355,2023-04-13,269,8.20,4.30,70.30,21.70,18.50
+North America,Argentina,Toys,Offline,Medium,2022-04-20,356,2023-04-14,343,5.60,2.10,66.30,28.00,4.70
+South America,France,Electronics,Offline,Medium,2023-03-25,357,2023-04-09,686,9.90,1.10,91.80,2.80,44.60
+Australia,China,Food,Offline,Low,2023-03-13,358,2023-04-12,670,6.10,3.40,89.80,29.70,28.20
+Asia,Mexico,Electronics,Offline,Low,2023-01-23,359,2023-04-12,399,4.50,3.10,35.80,38.30,13.70
+Europe,Canada,Electronics,Online,High,2022-09-12,360,2023-04-13,307,9.60,2.90,37.50,48.30,15.60
+South America,Japan,Electronics,Online,Low,2023-01-20,361,2023-04-10,854,0.20,3.10,5.70,32.20,31.00
+North America,India,Toys,Online,Low,2022-11-05,362,2023-04-11,519,3.90,2.90,91.70,9.30,29.20
+Australia,France,Furniture,Online,Low,2022-11-19,363,2023-04-15,951,5.30,1.80,97.20,18.50,21.30
+Asia,Japan,Clothing,Online,Medium,2022-06-09,364,2023-04-14,721,2.90,4.20,10.00,12.70,42.70
+South America,India,Food,Online,Low,2022-08-20,365,2023-04-14,300,3.20,2.30,1.00,31.30,40.70
+Asia,USA,Clothing,Offline,Medium,2023-03-28,366,2023-04-11,304,1.20,1.10,14.80,12.60,17.60
+Asia,India,Clothing,Offline,High,2023-03-15,367,2023-04-10,852,1.10,0.50,99.70,28.90,20.10
+Asia,France,Toys,Online,High,2022-09-26,368,2023-04-09,101,2.00,0.90,56.20,37.10,44.60
+Europe,USA,Sports,Offline,Medium,2022-05-31,369,2023-04-14,603,9.80,1.60,98.70,19.00,12.30
+South America,Canada,Furniture,Online,Low,2022-05-10,370,2023-04-14,31,3.40,4.00,21.40,13.90,3.10
+Asia,France,Furniture,Online,High,2022-06-18,371,2023-04-09,38,2.90,1.30,69.60,10.30,37.00
+South America,Argentina,Toys,Online,Low,2023-03-21,372,2023-04-15,786,6.20,0.30,66.90,12.70,10.00
+Australia,Germany,Toys,Online,High,2022-04-17,373,2023-04-11,349,5.30,1.20,39.70,50.00,1.10
+Australia,Mexico,Electronics,Online,High,2022-11-18,374,2023-04-10,947,8.80,4.10,8.40,46.80,43.60
+South America,Canada,Toys,Online,Low,2022-06-01,375,2023-04-11,509,8.20,1.20,88.00,15.80,26.30
+South America,Canada,Clothing,Offline,Medium,2022-11-24,376,2023-04-13,995,0.90,2.30,70.60,0.20,9.70
+Australia,USA,Toys,Online,Medium,2022-06-29,377,2023-04-14,654,3.40,4.80,73.30,35.40,47.20
+Asia,Australia,Sports,Online,Medium,2022-10-12,378,2023-04-15,171,1.70,4.60,67.20,22.50,8.20
+North America,Australia,Toys,Offline,Low,2022-05-22,379,2023-04-09,377,9.60,3.70,71.00,43.70,14.30
+Europe,Japan,Electronics,Offline,Low,2023-02-09,380,2023-04-15,670,3.80,4.50,5.20,31.20,8.40
+North America,Argentina,Electronics,Online,Low,2022-12-05,381,2023-04-14,647,5.20,4.20,74.50,20.60,2.90
+Asia,Argentina,Furniture,Offline,High,2022-07-24,382,2023-04-13,484,4.80,1.30,39.10,12.00,19.50
+Australia,USA,Toys,Online,Low,2022-08-29,383,2023-04-12,90,8.60,0.40,36.50,5.10,39.20
+Australia,China,Food,Online,High,2022-12-24,384,2023-04-09,919,2.20,2.70,17.70,44.50,44.70
+Asia,France,Food,Offline,Medium,2023-04-05,385,2023-04-12,143,2.40,1.90,74.90,48.10,11.00
+South America,India,Toys,Offline,High,2022-11-25,386,2023-04-13,567,0.80,0.10,57.60,28.70,0.40
+Europe,Brazil,Clothing,Online,Low,2022-06-28,387,2023-04-14,236,9.70,3.40,22.80,3.60,4.20
+Asia,France,Clothing,Offline,High,2022-12-09,388,2023-04-12,632,2.80,4.80,51.30,10.20,14.10
+South America,France,Food,Online,Low,2022-06-13,389,2023-04-09,363,3.70,4.40,36.80,36.70,18.20
+Australia,Australia,Toys,Online,Low,2022-06-15,390,2023-04-11,401,8.50,3.80,77.10,6.20,46.80
+North America,France,Clothing,Online,Low,2022-09-05,391,2023-04-13,986,7.60,1.00,82.90,24.40,13.00
+North America,Brazil,Toys,Online,Medium,2022-06-15,392,2023-04-09,217,3.80,1.30,39.80,20.30,3.80
+Europe,Germany,Sports,Offline,Medium,2022-07-05,393,2023-04-10,6,5.70,0.40,0.60,14.60,15.10
+North America,USA,Electronics,Online,High,2022-10-06,394,2023-04-09,107,7.00,4.20,4.40,6.20,5.60
+South America,Australia,Sports,Offline,Low,2022-05-29,395,2023-04-12,48,8.40,3.10,66.20,41.60,5.20
+North America,Brazil,Electronics,Offline,High,2023-01-20,396,2023-04-14,376,9.50,2.70,64.70,22.50,21.00
+Asia,India,Sports,Offline,Medium,2022-07-27,397,2023-04-13,482,3.30,3.20,70.40,1.90,37.60
+North America,Mexico,Furniture,Online,Low,2022-09-18,398,2023-04-12,812,3.10,1.20,79.50,16.10,24.30
+Australia,UK,Food,Offline,Low,2023-04-07,399,2023-04-09,883,8.50,1.10,16.10,30.80,8.50
+Australia,France,Toys,Online,Low,2022-09-02,400,2023-04-14,432,9.40,2.70,5.70,25.60,19.30
+Asia,France,Electronics,Offline,Medium,2023-02-19,401,2023-04-12,94,2.60,2.90,98.90,44.00,27.90
+Australia,Germany,Toys,Offline,Low,2023-03-05,402,2023-04-10,215,3.60,3.30,77.90,9.60,41.60
+Australia,Canada,Furniture,Offline,Medium,2022-04-18,403,2023-04-09,264,9.50,1.10,40.70,17.40,40.80
+Asia,Germany,Furniture,Offline,Medium,2022-09-12,404,2023-04-10,617,8.30,1.60,57.90,47.90,26.80
+North America,France,Sports,Offline,Medium,2022-10-17,405,2023-04-11,716,0.30,4.70,24.00,40.40,34.40
+North America,France,Electronics,Online,Medium,2023-01-04,406,2023-04-13,878,1.30,2.30,47.10,11.20,30.50
+Asia,Canada,Clothing,Online,Medium,2022-05-10,407,2023-04-11,550,1.50,2.10,34.40,43.00,10.40
+North America,Mexico,Toys,Online,Low,2022-06-08,408,2023-04-12,409,5.80,0.40,35.60,38.30,34.90
+Australia,China,Clothing,Online,Medium,2023-03-30,409,2023-04-10,76,7.20,4.80,1.70,43.10,3.10
+Asia,Japan,Furniture,Online,High,2022-07-09,410,2023-04-14,399,0.10,1.70,85.90,16.10,36.80
+Asia,Germany,Sports,Online,High,2022-07-07,411,2023-04-15,527,6.40,0.30,10.00,11.70,48.60
+Europe,France,Electronics,Offline,High,2022-07-28,412,2023-04-09,798,8.30,3.20,24.50,21.20,38.70
+Australia,Germany,Sports,Online,Medium,2022-11-19,413,2023-04-13,694,1.40,2.10,43.50,8.00,21.40
+North America,India,Clothing,Online,High,2023-02-16,414,2023-04-09,295,1.00,4.80,77.40,35.60,14.00
+Asia,UK,Sports,Offline,Low,2022-10-18,415,2023-04-10,829,6.80,2.00,11.30,28.60,43.30
+Asia,Germany,Electronics,Online,High,2022-10-05,416,2023-04-13,238,5.80,2.70,86.70,22.20,3.40
+North America,Australia,Clothing,Online,Low,2022-11-11,417,2023-04-09,867,7.80,3.50,31.60,35.20,47.30
+Asia,France,Clothing,Offline,Medium,2022-12-29,418,2023-04-10,584,5.40,2.30,34.20,29.40,40.00
+South America,Argentina,Furniture,Offline,High,2023-01-01,419,2023-04-14,438,3.10,2.30,93.00,33.10,8.50
+Asia,USA,Clothing,Offline,Low,2022-04-18,420,2023-04-10,882,4.70,4.20,39.90,30.40,12.20
+Asia,Germany,Food,Offline,Low,2022-10-01,421,2023-04-13,900,8.20,1.70,62.70,32.10,42.10
+Australia,Germany,Furniture,Online,High,2022-09-16,422,2023-04-09,751,4.00,0.70,19.80,10.30,38.30
+North America,Japan,Sports,Online,Low,2022-12-06,423,2023-04-10,69,3.30,2.20,36.70,17.30,33.90
+North America,USA,Clothing,Offline,High,2023-01-06,424,2023-04-11,470,1.80,3.10,65.50,11.10,43.00
+South America,Argentina,Toys,Online,High,2022-04-18,425,2023-04-12,194,6.40,4.60,22.70,20.60,8.10
+Australia,Mexico,Sports,Offline,Low,2022-07-03,426,2023-04-11,4,9.70,2.30,11.60,44.90,10.20
+South America,Canada,Electronics,Offline,High,2022-09-15,427,2023-04-15,189,9.60,4.60,47.70,31.90,4.50
+North America,Australia,Electronics,Offline,High,2023-02-27,428,2023-04-12,107,4.40,0.90,37.10,23.90,17.10
+North America,Japan,Furniture,Offline,Medium,2023-01-27,429,2023-04-11,381,5.20,1.30,77.30,35.90,18.80
+North America,Mexico,Toys,Offline,Low,2022-11-15,430,2023-04-11,127,1.60,4.70,96.00,20.60,12.50
+Asia,Mexico,Food,Offline,Medium,2022-12-22,431,2023-04-09,844,4.80,2.60,60.80,35.80,28.80
+South America,Mexico,Clothing,Online,Medium,2022-04-20,432,2023-04-09,359,7.40,2.20,48.00,40.80,14.20
+Australia,Mexico,Clothing,Online,High,2022-06-01,433,2023-04-14,584,8.60,3.60,41.10,9.80,38.40
+North America,China,Food,Offline,High,2022-04-10,434,2023-04-15,230,0.80,2.00,89.60,4.60,34.70
+North America,Mexico,Toys,Online,Low,2022-05-29,435,2023-04-11,396,0.20,3.70,35.50,26.50,27.40
+Europe,Germany,Furniture,Offline,High,2023-03-08,436,2023-04-11,48,4.90,3.60,87.30,20.00,41.70
+Asia,USA,Sports,Online,Medium,2023-02-03,437,2023-04-10,152,2.50,4.00,8.00,6.30,37.30
+South America,UK,Clothing,Online,Low,2022-08-09,438,2023-04-14,110,5.90,0.60,7.70,21.80,36.50
+Asia,France,Sports,Offline,Low,2022-10-08,439,2023-04-12,287,9.20,0.10,73.40,6.20,45.20
+Europe,Japan,Electronics,Offline,Medium,2022-09-28,440,2023-04-12,436,3.30,2.60,90.70,31.40,40.40
+North America,UK,Toys,Offline,Medium,2022-04-17,441,2023-04-13,443,5.50,0.80,84.30,40.10,49.30
+Europe,Mexico,Toys,Online,Low,2022-05-22,442,2023-04-15,168,8.60,3.30,9.60,18.40,43.50
+Europe,Japan,Furniture,Online,Medium,2022-12-18,443,2023-04-09,827,5.00,1.20,42.70,39.40,6.40
+South America,Argentina,Furniture,Offline,Low,2022-06-15,444,2023-04-09,88,0.80,2.50,47.40,4.80,15.90
+South America,Japan,Food,Online,Low,2022-08-25,445,2023-04-10,982,1.20,4.80,8.40,8.90,7.50
+Asia,India,Food,Online,High,2022-11-21,446,2023-04-12,853,4.80,4.10,73.50,1.70,3.00
+Europe,UK,Electronics,Offline,High,2022-07-05,447,2023-04-11,759,4.20,3.30,64.00,29.50,21.70
+Europe,Brazil,Food,Online,Medium,2022-08-16,448,2023-04-12,129,2.70,2.00,41.60,49.00,5.40
+North America,Australia,Food,Online,Low,2022-04-09,449,2023-04-11,555,1.10,0.40,12.10,6.20,8.10
+Europe,Japan,Toys,Offline,High,2022-08-22,450,2023-04-14,406,1.20,0.20,70.90,31.10,35.90
+South America,Mexico,Toys,Online,Low,2022-10-21,451,2023-04-15,606,3.50,4.50,33.20,13.80,24.10
+North America,France,Furniture,Online,Medium,2022-10-27,452,2023-04-13,99,4.40,3.20,18.00,40.40,10.60
+Asia,Australia,Furniture,Online,Low,2022-06-15,453,2023-04-13,823,3.00,0.90,19.40,44.40,45.70
+Asia,India,Food,Online,High,2022-05-16,454,2023-04-14,866,4.10,3.30,25.70,9.10,43.80
+South America,France,Toys,Online,Medium,2022-12-16,455,2023-04-09,465,0.90,1.00,52.60,18.50,50.00
+Europe,Mexico,Toys,Online,High,2023-01-10,456,2023-04-11,179,3.30,2.20,6.60,39.70,21.10
+South America,UK,Clothing,Online,High,2022-11-05,457,2023-04-14,60,6.90,3.80,60.80,17.60,47.30
+Europe,USA,Sports,Offline,Low,2022-10-23,458,2023-04-15,768,6.30,4.10,78.10,43.50,1.10
+Asia,France,Food,Online,Medium,2022-12-28,459,2023-04-10,673,4.50,2.80,38.50,25.40,6.20
+Asia,China,Clothing,Offline,Medium,2022-11-25,460,2023-04-11,366,0.60,0.70,5.40,47.60,20.60
+Europe,Canada,Electronics,Offline,Medium,2023-02-03,461,2023-04-14,143,7.20,5.00,10.40,43.60,32.30
+Europe,Canada,Furniture,Online,High,2022-05-31,462,2023-04-14,81,8.70,4.80,9.40,1.50,32.00
+South America,India,Sports,Online,Medium,2023-02-19,463,2023-04-09,390,7.10,1.80,68.40,0.60,48.00
+Europe,Mexico,Sports,Online,High,2022-06-20,464,2023-04-11,679,2.30,2.00,30.00,6.90,13.50
+South America,UK,Sports,Online,Low,2023-02-27,465,2023-04-12,381,0.70,3.00,78.00,24.50,11.70
+Australia,China,Toys,Offline,Medium,2022-10-19,466,2023-04-12,313,9.70,1.60,48.10,12.50,42.10
+Asia,India,Electronics,Online,Medium,2022-06-15,467,2023-04-15,508,2.20,5.00,48.70,44.70,27.70
+South America,USA,Clothing,Offline,High,2023-01-04,468,2023-04-10,931,1.40,0.20,71.10,28.70,4.50
+North America,Argentina,Clothing,Offline,Medium,2022-11-10,469,2023-04-11,231,6.10,4.30,79.60,7.80,41.00
+Europe,India,Food,Online,Medium,2022-08-01,470,2023-04-15,579,0.10,4.40,6.20,47.30,49.60
+North America,India,Furniture,Online,High,2023-04-06,471,2023-04-14,516,4.10,3.10,15.10,44.30,5.40
+Australia,Australia,Sports,Online,Low,2022-08-14,472,2023-04-10,163,1.60,3.00,33.50,11.70,8.50
+North America,Canada,Electronics,Offline,Low,2023-03-26,473,2023-04-14,900,4.50,1.80,28.90,21.30,9.30
+North America,Brazil,Food,Online,Medium,2022-05-31,474,2023-04-12,642,7.40,0.90,74.20,33.50,27.10
+North America,France,Sports,Online,Medium,2022-06-27,475,2023-04-09,105,1.20,0.40,41.70,37.60,12.40
+South America,China,Electronics,Online,Medium,2022-10-17,476,2023-04-13,324,9.60,2.50,91.60,38.60,9.40
+Europe,China,Food,Online,Low,2023-02-02,477,2023-04-15,737,0.90,3.40,61.30,12.80,6.60
+South America,Australia,Clothing,Offline,Medium,2023-03-22,478,2023-04-09,417,5.60,1.80,71.90,1.30,17.20
+North America,UK,Electronics,Online,Low,2022-08-08,479,2023-04-15,527,5.70,0.20,97.90,10.10,6.70
+Australia,Argentina,Sports,Offline,Low,2022-12-02,480,2023-04-10,771,2.80,2.00,52.40,44.20,34.50
+Australia,France,Furniture,Offline,Medium,2022-12-05,481,2023-04-11,764,0.50,0.80,89.30,42.60,9.30
+South America,USA,Food,Online,High,2022-07-29,482,2023-04-10,908,9.70,2.70,32.30,32.10,45.60
+South America,France,Sports,Offline,Low,2022-08-26,483,2023-04-12,280,5.60,1.60,42.30,34.50,4.70
+South America,Germany,Electronics,Offline,Low,2023-01-11,484,2023-04-12,952,4.40,3.80,87.70,6.10,1.00
+North America,USA,Food,Offline,Medium,2022-11-24,485,2023-04-13,748,8.80,3.40,85.30,27.80,42.30
+Asia,China,Furniture,Offline,Low,2022-11-08,486,2023-04-13,943,1.00,2.20,79.20,18.70,8.00
+North America,Argentina,Sports,Online,Medium,2022-05-11,487,2023-04-11,979,5.20,4.80,11.80,48.00,37.20
+Europe,Argentina,Clothing,Offline,Low,2023-03-20,488,2023-04-13,409,1.40,2.60,3.30,4.30,7.20
+Asia,Australia,Sports,Online,High,2022-05-27,489,2023-04-11,466,4.90,3.10,10.60,19.50,25.00
+Europe,Germany,Food,Offline,Low,2023-03-09,490,2023-04-15,976,7.60,4.10,55.90,4.50,24.70
+Europe,India,Clothing,Offline,High,2022-08-25,491,2023-04-14,626,6.00,4.40,74.50,0.70,7.40
+Asia,China,Furniture,Offline,High,2022-08-17,492,2023-04-15,957,6.80,2.60,70.30,44.70,13.10
+North America,France,Furniture,Offline,Low,2023-02-03,493,2023-04-13,180,9.70,0.80,13.60,38.40,36.00
+Europe,India,Sports,Offline,High,2022-10-10,494,2023-04-13,194,1.40,0.10,55.90,42.50,17.40
+Asia,France,Clothing,Online,Low,2023-02-18,495,2023-04-14,483,2.80,0.70,36.90,43.20,29.90
+Europe,France,Toys,Offline,High,2022-11-14,496,2023-04-11,19,4.50,0.80,81.20,11.60,27.70
+Asia,France,Electronics,Online,High,2023-03-24,497,2023-04-13,635,5.50,1.60,72.70,6.60,15.70
+Australia,Canada,Electronics,Offline,Low,2022-11-10,498,2023-04-12,874,0.20,4.20,97.70,20.70,48.80
+Asia,UK,Electronics,Online,Low,2023-01-17,499,2023-04-13,673,6.20,2.30,33.40,42.00,10.00
+South America,Mexico,Clothing,Offline,High,2023-01-07,500,2023-04-14,471,1.40,1.70,40.80,43.60,17.30
+South America,China,Furniture,Offline,Medium,2023-01-07,501,2023-04-09,861,6.60,3.40,32.40,19.10,39.00
+South America,USA,Sports,Online,Low,2022-04-29,502,2023-04-11,800,0.40,4.60,72.70,47.70,5.50
+South America,Mexico,Furniture,Offline,Medium,2022-09-21,503,2023-04-13,304,0.80,1.10,48.10,14.50,34.10
+Asia,Mexico,Food,Online,Medium,2023-01-03,504,2023-04-09,956,2.90,4.40,92.30,34.20,15.20
+South America,Germany,Clothing,Offline,Medium,2022-09-16,505,2023-04-11,239,0.60,2.80,25.00,35.70,4.20
+South America,Australia,Furniture,Online,High,2022-12-25,506,2023-04-15,501,0.10,1.70,64.40,31.80,40.40
+Asia,Mexico,Clothing,Online,Medium,2022-07-12,507,2023-04-10,770,1.60,1.30,76.90,22.10,33.70
+Asia,USA,Clothing,Offline,Medium,2023-02-06,508,2023-04-14,414,7.40,1.40,0.40,1.20,0.50
+Europe,Germany,Food,Offline,Low,2023-02-20,509,2023-04-11,923,8.60,2.20,94.20,49.50,45.60
+Europe,China,Electronics,Offline,Low,2022-10-05,510,2023-04-15,824,2.90,0.20,81.60,43.70,2.40
+Australia,India,Clothing,Offline,Medium,2022-06-13,511,2023-04-14,397,1.10,4.50,71.60,44.10,16.80
+Asia,France,Furniture,Online,Low,2022-08-25,512,2023-04-14,871,2.80,1.40,37.50,3.80,9.00
+Asia,Mexico,Furniture,Online,Low,2022-09-14,513,2023-04-10,934,8.80,3.50,47.60,36.90,8.90
+North America,France,Furniture,Offline,Low,2022-10-22,514,2023-04-14,978,7.30,1.10,32.90,31.90,3.50
+Asia,Canada,Furniture,Online,Medium,2022-08-19,515,2023-04-13,981,5.90,1.30,15.00,12.40,35.70
+Asia,UK,Furniture,Online,Medium,2023-03-18,516,2023-04-15,561,9.00,1.00,4.90,44.00,4.40
+Asia,USA,Food,Offline,High,2022-06-16,517,2023-04-10,991,9.20,2.80,64.40,24.70,4.70
+Europe,UK,Toys,Online,Low,2022-12-31,518,2023-04-13,929,0.80,4.60,85.10,10.20,41.30
+North America,Brazil,Electronics,Online,Medium,2022-09-30,519,2023-04-09,991,8.60,4.00,19.80,34.40,41.30
+North America,Brazil,Toys,Offline,Medium,2023-02-17,520,2023-04-15,385,0.60,3.80,19.90,15.50,6.90
+Asia,China,Electronics,Online,Medium,2022-05-06,521,2023-04-14,657,3.60,3.70,40.90,18.30,23.80
+Asia,Brazil,Food,Offline,High,2022-05-13,522,2023-04-11,588,4.10,1.70,44.70,39.00,31.40
+Asia,UK,Sports,Offline,High,2022-08-05,523,2023-04-14,185,4.90,0.30,56.20,19.60,49.50
+Europe,Germany,Furniture,Online,Low,2022-12-21,524,2023-04-10,783,2.50,2.60,55.70,23.40,6.80
+Asia,Mexico,Toys,Offline,Medium,2022-10-03,525,2023-04-10,968,5.20,0.60,6.50,25.60,11.70
+Europe,UK,Furniture,Online,Medium,2022-10-03,526,2023-04-11,691,2.50,4.30,25.70,47.00,15.80
+Europe,Brazil,Furniture,Online,High,2022-10-31,527,2023-04-11,942,4.60,1.60,41.20,12.00,32.00
+Europe,Australia,Furniture,Offline,Low,2022-12-15,528,2023-04-13,196,0.90,3.30,85.80,6.30,34.20
+North America,China,Electronics,Offline,Low,2022-06-04,529,2023-04-10,87,8.20,0.40,63.30,29.20,3.60
+South America,Brazil,Sports,Offline,High,2023-03-02,530,2023-04-10,119,3.20,2.00,5.00,22.10,49.20
+Australia,Japan,Sports,Offline,High,2022-10-05,531,2023-04-10,384,9.00,4.20,0.10,48.90,40.80
+North America,China,Toys,Offline,Medium,2022-07-07,532,2023-04-14,674,3.40,4.40,73.50,16.30,22.70
+North America,Japan,Food,Online,High,2022-09-13,533,2023-04-11,58,0.70,1.10,5.70,42.10,39.30
+Europe,Canada,Food,Online,Medium,2022-05-03,534,2023-04-09,414,6.00,3.20,16.20,45.60,19.50
+Europe,Mexico,Food,Offline,Medium,2022-10-31,535,2023-04-14,21,9.70,3.00,84.50,13.90,23.00
+Europe,India,Clothing,Online,High,2022-11-05,536,2023-04-10,175,6.00,4.90,18.90,45.60,36.60
+Asia,China,Food,Online,Medium,2022-09-17,537,2023-04-14,458,3.60,0.30,97.00,41.50,8.00
+South America,USA,Furniture,Offline,Medium,2022-09-30,538,2023-04-09,850,6.60,4.80,42.30,36.10,15.10
+Australia,France,Toys,Offline,Medium,2022-09-02,539,2023-04-14,228,3.90,0.30,55.50,0.50,2.30
+Asia,Mexico,Food,Offline,Medium,2022-05-25,540,2023-04-12,727,9.70,2.10,80.20,44.70,44.90
+Australia,India,Furniture,Offline,Medium,2022-08-11,541,2023-04-11,662,3.10,4.30,79.50,35.10,16.50
+Asia,Germany,Clothing,Offline,Medium,2022-07-24,542,2023-04-14,88,3.50,4.90,61.40,47.40,0.50
+North America,Mexico,Sports,Offline,Low,2022-12-30,543,2023-04-10,204,1.80,1.50,95.50,15.20,14.50
+South America,India,Sports,Offline,Medium,2023-01-12,544,2023-04-12,603,5.70,1.20,6.30,16.10,39.20
+Europe,Brazil,Sports,Online,Low,2022-05-06,545,2023-04-11,990,1.30,2.50,85.00,17.70,24.60
+South America,Australia,Toys,Offline,Medium,2022-09-13,546,2023-04-11,240,0.40,1.50,7.10,40.80,25.60
+South America,Argentina,Sports,Online,Low,2022-08-27,547,2023-04-11,126,9.80,0.40,81.60,9.80,14.00
+Europe,India,Electronics,Offline,Low,2022-12-05,548,2023-04-13,133,3.50,4.20,35.60,18.70,34.80
+South America,Mexico,Sports,Offline,Medium,2022-09-20,549,2023-04-11,525,1.50,0.20,25.20,2.60,2.60
+South America,China,Sports,Online,Medium,2022-06-07,550,2023-04-13,732,2.20,1.80,2.30,17.90,47.90
+South America,Germany,Furniture,Online,Medium,2023-02-25,551,2023-04-11,461,8.30,4.10,91.00,17.20,29.50
+South America,UK,Electronics,Offline,High,2023-02-20,552,2023-04-10,240,3.20,3.50,64.50,30.10,46.40
+Asia,USA,Clothing,Offline,Low,2022-09-17,553,2023-04-12,844,9.00,0.30,48.10,14.50,15.20
+Asia,USA,Electronics,Online,High,2023-03-23,554,2023-04-11,630,9.60,4.30,19.00,8.00,48.70
+Europe,China,Toys,Online,Medium,2022-07-06,555,2023-04-11,925,1.60,3.50,8.10,32.00,2.80
+Australia,Germany,Food,Online,Low,2022-09-08,556,2023-04-14,515,5.20,1.90,21.10,0.60,46.10
+North America,France,Electronics,Offline,Low,2022-06-21,557,2023-04-15,963,8.40,4.10,1.30,38.50,5.40
+Australia,UK,Toys,Online,Medium,2023-02-25,558,2023-04-15,750,0.40,4.10,45.00,5.00,14.50
+North America,Argentina,Toys,Online,Low,2023-01-08,559,2023-04-14,739,0.80,4.70,77.40,44.20,6.80
+South America,Germany,Toys,Online,High,2022-07-19,560,2023-04-10,949,8.00,3.40,13.10,32.30,14.00
+North America,Mexico,Furniture,Online,High,2022-09-10,561,2023-04-10,397,3.20,2.00,50.80,34.70,41.50
+Asia,Germany,Electronics,Offline,Medium,2023-01-11,562,2023-04-10,137,8.70,2.80,63.30,41.30,49.20
+Australia,France,Furniture,Offline,Medium,2022-04-20,563,2023-04-15,527,3.00,3.90,24.70,17.40,20.30
+Europe,Australia,Toys,Online,Low,2023-01-24,564,2023-04-09,803,1.70,4.90,33.30,27.80,19.50
+Asia,India,Electronics,Online,Low,2022-08-08,565,2023-04-15,57,7.00,3.90,67.70,45.30,45.20
+Australia,India,Toys,Online,High,2023-01-17,566,2023-04-13,333,7.70,0.60,27.90,44.40,32.40
+Europe,Canada,Food,Online,Low,2022-06-03,567,2023-04-09,394,2.40,1.70,23.30,27.60,38.90
+Europe,Japan,Clothing,Online,High,2022-07-22,568,2023-04-10,160,3.50,0.10,38.50,46.00,42.90
+Europe,Australia,Sports,Offline,Medium,2022-10-09,569,2023-04-15,875,4.90,4.60,14.60,14.50,40.40
+North America,UK,Food,Online,High,2023-03-27,570,2023-04-11,72,6.10,3.90,65.60,27.30,29.80
+Australia,Brazil,Toys,Offline,Low,2022-09-27,571,2023-04-11,317,4.20,0.50,30.10,13.10,33.90
+Australia,Germany,Clothing,Online,Medium,2022-11-21,572,2023-04-11,216,5.20,0.20,94.30,17.90,47.80
+Europe,China,Sports,Offline,Medium,2022-06-05,573,2023-04-14,62,9.00,1.90,13.00,13.40,14.30
+South America,Australia,Furniture,Offline,Medium,2022-04-13,574,2023-04-11,464,0.90,2.90,7.70,28.30,19.20
+Europe,India,Furniture,Online,High,2022-11-20,575,2023-04-14,544,3.70,1.60,1.20,42.30,19.20
+Europe,Japan,Toys,Offline,High,2022-08-22,576,2023-04-15,69,0.40,4.40,72.20,33.40,49.30
+Asia,UK,Clothing,Offline,High,2022-11-10,577,2023-04-15,87,4.40,0.40,31.40,40.90,49.70
+North America,Japan,Toys,Offline,Medium,2022-04-23,578,2023-04-13,952,4.30,4.10,88.00,33.90,48.90
+Australia,India,Sports,Online,Low,2022-07-24,579,2023-04-13,413,3.10,1.60,54.20,22.70,0.40
+Australia,France,Sports,Offline,Medium,2023-02-01,580,2023-04-11,160,10.00,0.90,37.50,4.50,46.30
+Europe,India,Food,Offline,Low,2022-09-06,581,2023-04-14,904,7.40,4.30,49.00,24.90,1.80
+North America,Australia,Food,Online,Medium,2023-04-04,582,2023-04-15,35,6.10,2.30,59.60,28.70,19.90
+Europe,China,Clothing,Online,High,2022-08-08,583,2023-04-11,93,0.50,4.00,1.90,41.30,14.70
+Asia,France,Food,Offline,Low,2022-11-23,584,2023-04-10,793,0.90,1.40,53.20,46.20,2.70
+Europe,China,Clothing,Offline,Low,2022-04-21,585,2023-04-14,515,6.80,2.80,67.80,35.30,20.20
+South America,France,Electronics,Offline,High,2022-08-20,586,2023-04-09,62,4.40,3.20,54.70,30.50,19.20
+South America,Mexico,Electronics,Online,Medium,2022-09-22,587,2023-04-11,632,7.80,1.20,3.20,17.40,9.50
+North America,UK,Sports,Offline,Low,2023-03-30,588,2023-04-09,97,8.90,4.20,97.70,27.50,0.50
+South America,China,Clothing,Offline,Low,2022-08-20,589,2023-04-10,485,9.20,4.90,27.20,32.80,23.70
+South America,India,Toys,Online,Low,2023-03-17,590,2023-04-14,378,4.50,4.00,33.10,20.00,9.40
+South America,China,Electronics,Offline,Low,2022-11-18,591,2023-04-11,85,5.30,2.80,76.20,28.50,44.40
+Europe,Argentina,Sports,Online,Medium,2022-08-26,592,2023-04-14,346,3.90,1.10,100.00,47.80,37.10
+Australia,Japan,Electronics,Online,High,2022-06-02,593,2023-04-10,476,6.00,3.70,81.00,28.90,48.20
+Australia,Germany,Toys,Offline,Low,2022-09-05,594,2023-04-13,159,8.20,3.20,39.50,4.20,18.20
+Australia,Argentina,Toys,Offline,Low,2022-07-15,595,2023-04-09,151,0.80,3.50,38.40,30.60,38.40
+North America,Brazil,Sports,Online,High,2022-06-10,596,2023-04-13,70,1.50,1.00,14.20,31.30,34.90
+Asia,Canada,Clothing,Online,Medium,2023-02-05,597,2023-04-11,247,8.20,2.90,27.40,45.70,26.60
+Australia,Japan,Clothing,Offline,High,2022-07-28,598,2023-04-09,758,9.10,5.00,55.20,42.40,12.20
+South America,Canada,Clothing,Online,Low,2022-05-16,599,2023-04-11,104,0.60,4.80,81.60,25.90,27.70
+South America,India,Toys,Online,Medium,2023-03-03,600,2023-04-10,557,3.40,3.80,30.70,20.20,48.40
+North America,India,Toys,Online,Low,2023-03-29,601,2023-04-15,91,3.90,0.70,92.20,12.50,12.30
+South America,China,Toys,Offline,Medium,2022-06-13,602,2023-04-10,724,5.30,1.90,17.30,37.80,17.10
+South America,China,Electronics,Offline,Medium,2023-04-01,603,2023-04-15,893,7.40,0.10,48.50,45.10,30.70
+Asia,China,Electronics,Online,Low,2023-01-15,604,2023-04-11,478,5.90,0.60,32.90,0.40,19.80
+Europe,India,Food,Online,Medium,2023-02-19,605,2023-04-15,343,0.60,2.90,25.00,41.30,22.20
+South America,UK,Electronics,Offline,High,2022-11-21,606,2023-04-14,457,8.70,0.40,85.40,20.70,14.30
+Asia,India,Sports,Online,Low,2022-07-26,607,2023-04-14,236,3.60,1.40,12.10,20.40,26.00
+Europe,Germany,Clothing,Offline,Medium,2022-08-13,608,2023-04-10,979,4.40,0.50,65.90,7.70,34.70
+Australia,France,Food,Online,Medium,2023-01-27,609,2023-04-14,510,3.30,4.80,59.30,5.30,3.30
+Australia,India,Food,Online,High,2023-04-07,610,2023-04-14,511,9.50,4.50,6.70,46.40,38.70
+Australia,USA,Food,Offline,High,2022-09-30,611,2023-04-14,156,9.10,2.00,54.40,35.50,6.40
+Europe,Japan,Sports,Offline,Low,2023-02-13,612,2023-04-13,37,0.50,3.20,49.90,10.00,43.20
+Europe,Brazil,Food,Offline,High,2022-08-26,613,2023-04-10,142,6.20,3.00,79.00,21.00,13.90
+Australia,Canada,Sports,Offline,Low,2022-10-01,614,2023-04-11,752,4.90,2.00,96.90,3.80,14.20
+Asia,Argentina,Toys,Offline,High,2023-03-03,615,2023-04-15,619,1.00,3.90,49.00,14.50,16.20
+Australia,Germany,Toys,Online,Low,2022-12-22,616,2023-04-15,647,6.40,1.20,77.70,13.10,26.00
+Asia,Germany,Toys,Offline,Medium,2023-01-25,617,2023-04-10,843,6.40,3.70,36.80,21.30,49.30
+Europe,USA,Sports,Offline,High,2022-09-06,618,2023-04-10,878,7.30,4.40,25.30,25.90,35.80
+Europe,Japan,Furniture,Offline,Medium,2023-03-28,619,2023-04-10,789,2.00,1.10,77.00,3.00,8.60
+Australia,Canada,Furniture,Online,Medium,2022-12-04,620,2023-04-14,90,4.90,4.20,14.40,46.50,0.70
+Australia,India,Electronics,Offline,High,2023-02-27,621,2023-04-11,840,7.80,1.10,75.10,22.20,16.10
+Asia,UK,Furniture,Online,Medium,2023-03-08,622,2023-04-12,513,3.00,4.00,74.60,0.60,22.30
+South America,Argentina,Clothing,Offline,Medium,2023-02-08,623,2023-04-12,909,9.80,1.60,10.20,48.30,29.40
+Australia,Germany,Toys,Online,Medium,2022-06-09,624,2023-04-09,302,2.20,4.70,91.60,6.80,29.80
+Europe,Australia,Furniture,Offline,Medium,2022-08-30,625,2023-04-14,668,10.00,1.10,29.40,24.10,27.40
+North America,India,Sports,Offline,Medium,2022-11-28,626,2023-04-14,421,6.10,0.10,87.00,37.40,17.70
+Asia,France,Food,Online,High,2022-04-24,627,2023-04-12,353,0.10,2.50,56.20,31.20,34.80
+South America,Germany,Furniture,Online,Medium,2023-01-23,628,2023-04-13,985,0.50,0.10,42.90,38.70,20.10
+Europe,France,Electronics,Online,Medium,2023-02-25,629,2023-04-15,618,4.30,3.80,64.10,11.10,12.50
+Australia,Australia,Food,Online,High,2023-02-10,630,2023-04-10,922,3.20,1.00,47.40,16.70,37.00
+Europe,Mexico,Food,Offline,Low,2022-06-03,631,2023-04-13,472,2.20,0.40,72.20,11.50,38.60
+Europe,Brazil,Food,Online,Low,2023-01-23,632,2023-04-15,508,9.30,5.00,81.20,16.50,11.40
+North America,China,Toys,Online,Low,2022-12-11,633,2023-04-13,842,4.80,5.00,82.60,20.50,49.90
+Australia,Germany,Sports,Offline,Low,2022-06-25,634,2023-04-15,315,5.70,2.80,67.10,38.80,21.60
+Asia,Mexico,Furniture,Online,Medium,2022-11-12,635,2023-04-13,26,0.50,3.10,88.00,49.80,39.00
+Australia,Brazil,Food,Online,Medium,2023-03-30,636,2023-04-12,298,9.90,3.40,52.60,10.70,19.60
+North America,Mexico,Furniture,Offline,High,2022-12-25,637,2023-04-14,698,5.70,1.60,62.40,48.20,9.20
+Australia,China,Clothing,Offline,Medium,2023-02-17,638,2023-04-09,479,0.70,4.80,78.30,30.50,27.40
+Asia,Argentina,Clothing,Online,Medium,2023-01-08,639,2023-04-09,207,9.50,0.60,13.70,7.50,19.00
+Australia,Germany,Electronics,Offline,Low,2022-09-26,640,2023-04-11,929,5.30,0.50,48.90,19.00,2.70
+South America,Germany,Electronics,Online,High,2023-01-16,641,2023-04-09,132,8.20,3.80,69.80,13.10,36.90
+Australia,Australia,Food,Offline,Medium,2022-09-21,642,2023-04-09,146,6.10,3.90,2.00,15.90,21.40
+Australia,Mexico,Furniture,Offline,Medium,2022-10-23,643,2023-04-09,178,3.10,1.30,30.70,31.60,5.30
+Asia,Mexico,Sports,Online,Low,2022-09-02,644,2023-04-11,865,1.60,1.80,97.00,19.10,37.80
+South America,USA,Sports,Online,High,2022-04-16,645,2023-04-11,726,9.60,2.20,46.60,23.80,38.10
+Australia,India,Sports,Offline,Low,2022-06-06,646,2023-04-12,427,7.60,0.90,58.20,41.60,34.30
+North America,Mexico,Toys,Online,Medium,2022-11-29,647,2023-04-09,975,4.50,4.40,60.70,11.50,26.20
+Europe,Argentina,Electronics,Online,Low,2022-11-24,648,2023-04-09,978,7.60,2.00,56.50,31.90,47.80
+South America,China,Toys,Offline,Low,2022-09-11,649,2023-04-12,863,2.70,2.40,78.80,9.10,15.70
+Australia,USA,Furniture,Online,High,2023-04-05,650,2023-04-12,68,5.00,3.60,48.00,29.70,36.60
+South America,Canada,Toys,Online,Low,2022-11-01,651,2023-04-12,278,2.90,4.40,71.50,33.40,10.50
+Australia,Argentina,Furniture,Offline,Low,2023-04-03,652,2023-04-12,736,9.50,0.30,79.60,15.40,47.60
+Europe,Germany,Electronics,Online,Medium,2023-04-05,653,2023-04-14,567,8.70,1.70,32.00,10.50,11.20
+South America,Australia,Electronics,Online,High,2023-02-24,654,2023-04-13,898,0.80,0.70,45.30,7.80,11.00
+Europe,UK,Furniture,Offline,Medium,2023-03-11,655,2023-04-09,244,5.50,1.20,15.50,1.00,28.30
+Asia,Brazil,Sports,Offline,High,2022-06-18,656,2023-04-11,78,9.00,0.50,90.10,21.80,1.70
+South America,Germany,Food,Online,Low,2022-12-28,657,2023-04-15,114,8.50,0.90,88.30,22.00,3.40
+South America,China,Food,Offline,Low,2022-07-04,658,2023-04-12,904,7.20,1.00,86.70,6.30,33.10
+North America,Mexico,Sports,Online,High,2022-06-04,659,2023-04-14,930,9.10,3.10,32.40,43.40,9.10
+Europe,Mexico,Electronics,Offline,Low,2022-11-17,660,2023-04-15,417,3.30,1.70,16.20,25.00,12.00
+Asia,Argentina,Furniture,Online,Low,2023-04-02,661,2023-04-15,966,4.60,1.90,79.60,46.10,48.10
+Australia,Germany,Furniture,Offline,High,2022-10-15,662,2023-04-10,628,9.50,3.00,34.10,5.80,45.70
+Asia,India,Food,Offline,Medium,2022-07-27,663,2023-04-15,276,7.30,2.20,52.00,42.80,33.70
+Europe,Brazil,Sports,Offline,High,2022-04-18,664,2023-04-14,390,2.30,0.70,83.20,16.80,5.30
+South America,UK,Electronics,Offline,High,2022-04-14,665,2023-04-11,476,7.30,2.70,63.30,6.60,17.70
+South America,Mexico,Clothing,Online,Medium,2022-04-26,666,2023-04-10,607,8.20,4.70,2.70,36.70,2.50
+South America,Germany,Sports,Online,Medium,2022-09-21,667,2023-04-14,743,8.30,4.60,81.10,29.10,22.60
+Australia,UK,Food,Offline,Medium,2023-02-11,668,2023-04-09,196,5.70,1.60,24.50,14.00,24.30
+Australia,Germany,Sports,Offline,Medium,2022-12-14,669,2023-04-15,484,9.80,2.10,87.20,41.60,2.80
+Europe,Australia,Clothing,Online,Low,2022-12-02,670,2023-04-14,197,2.00,2.00,82.30,21.70,19.90
+Europe,Brazil,Toys,Offline,Medium,2022-06-22,671,2023-04-13,487,10.00,4.40,27.10,28.30,40.90
+North America,Australia,Clothing,Offline,Low,2022-08-26,672,2023-04-13,370,5.50,2.90,21.10,49.20,10.40
+South America,Australia,Food,Offline,High,2023-02-16,673,2023-04-15,462,7.20,0.10,80.00,13.90,7.70
+North America,UK,Food,Offline,High,2022-10-15,674,2023-04-09,878,3.50,3.60,54.80,33.60,36.60
+Europe,USA,Sports,Offline,Medium,2022-04-24,675,2023-04-14,284,0.90,5.00,61.40,41.30,10.80
+Europe,India,Electronics,Offline,High,2022-08-28,676,2023-04-15,706,3.20,4.90,24.70,26.70,44.10
+South America,Argentina,Toys,Offline,High,2022-05-29,677,2023-04-10,245,1.10,3.40,38.30,2.10,43.60
+Europe,India,Electronics,Online,High,2023-02-07,678,2023-04-10,729,7.10,3.20,50.80,11.10,38.60
+North America,China,Food,Online,Low,2022-05-15,679,2023-04-12,568,3.70,3.00,91.40,28.00,48.40
+Australia,Germany,Clothing,Offline,Medium,2023-02-17,680,2023-04-11,635,8.90,3.30,41.50,10.50,4.10
+South America,Japan,Clothing,Online,High,2022-06-08,681,2023-04-10,656,0.10,1.00,77.30,28.40,29.50
+Asia,USA,Food,Online,High,2023-03-08,682,2023-04-14,816,8.80,3.40,54.10,15.90,41.90
+Australia,Canada,Toys,Offline,Medium,2022-08-12,683,2023-04-15,735,9.10,3.60,54.40,19.90,7.10
+Europe,Brazil,Sports,Offline,Low,2022-10-08,684,2023-04-10,110,1.60,1.90,25.90,44.30,4.50
+South America,Germany,Electronics,Online,Medium,2022-08-18,685,2023-04-12,547,9.60,3.10,24.70,5.90,39.70
+Australia,Argentina,Toys,Offline,High,2022-07-28,686,2023-04-11,903,1.50,4.80,90.90,32.80,30.40
+Australia,Germany,Furniture,Offline,High,2022-05-04,687,2023-04-15,797,6.00,2.10,35.40,47.50,18.00
+Australia,Canada,Electronics,Offline,Low,2022-07-15,688,2023-04-11,874,0.30,0.50,17.40,7.50,26.00
+Europe,China,Toys,Offline,Medium,2022-07-03,689,2023-04-15,706,7.00,3.50,98.80,5.40,44.00
+Europe,India,Sports,Online,High,2022-08-16,690,2023-04-13,152,5.10,4.90,54.70,42.10,17.60
+Europe,China,Electronics,Online,Medium,2022-06-08,691,2023-04-11,887,9.80,1.90,82.40,37.80,35.10
+Asia,Australia,Sports,Online,High,2022-09-02,692,2023-04-12,577,3.20,4.40,34.70,6.40,40.90
+Australia,India,Toys,Online,Medium,2023-01-24,693,2023-04-13,637,9.70,1.00,6.10,12.00,16.00
+North America,Mexico,Clothing,Offline,High,2022-08-12,694,2023-04-15,576,8.50,4.40,48.20,46.30,26.80
+South America,Argentina,Furniture,Online,High,2022-12-09,695,2023-04-14,49,6.40,2.20,78.20,29.00,34.40
+Australia,France,Sports,Online,High,2022-04-24,696,2023-04-13,727,1.70,3.00,32.20,27.50,14.70
+North America,Mexico,Furniture,Online,Medium,2022-10-22,697,2023-04-09,3,9.70,1.70,73.30,2.30,7.80
+South America,China,Sports,Offline,Low,2022-10-06,698,2023-04-09,931,1.50,1.90,16.90,0.20,5.00
+Australia,Canada,Electronics,Online,Low,2023-03-14,699,2023-04-11,883,9.80,0.90,64.70,40.40,19.40
+Australia,Japan,Food,Offline,Low,2022-06-30,700,2023-04-13,172,4.90,1.00,79.70,26.40,37.30
+South America,Argentina,Clothing,Online,Low,2022-07-26,701,2023-04-11,64,5.10,3.70,57.70,32.70,32.10
+Europe,Australia,Electronics,Offline,Medium,2023-02-27,702,2023-04-10,518,3.50,2.40,99.80,45.70,18.30
+South America,India,Food,Offline,High,2023-01-07,703,2023-04-12,386,5.60,3.20,21.20,18.00,21.90
+Europe,Brazil,Food,Offline,High,2023-03-19,704,2023-04-15,307,2.40,2.60,70.30,9.10,19.20
+Europe,Japan,Furniture,Online,Low,2022-07-09,705,2023-04-09,673,9.90,4.90,8.20,38.00,14.10
+Australia,Japan,Clothing,Online,Low,2022-11-28,706,2023-04-09,480,3.80,1.20,40.90,11.90,38.30
+South America,Germany,Furniture,Online,High,2022-04-23,707,2023-04-11,152,3.50,0.50,86.40,26.30,18.30
+Australia,Argentina,Electronics,Offline,High,2022-07-15,708,2023-04-14,609,4.10,3.00,70.20,24.00,45.40
+South America,France,Clothing,Offline,High,2022-05-20,709,2023-04-13,283,5.90,4.00,61.50,41.30,29.10
+South America,France,Clothing,Online,Low,2023-02-05,710,2023-04-15,633,0.70,1.40,7.30,21.60,18.40
+South America,Australia,Food,Online,Medium,2022-07-14,711,2023-04-13,172,5.50,4.90,24.80,34.00,20.20
+Australia,France,Clothing,Online,Low,2022-12-09,712,2023-04-10,953,2.60,2.30,74.30,31.30,14.40
+Europe,USA,Furniture,Offline,High,2023-02-27,713,2023-04-13,296,5.70,2.80,33.00,27.10,49.80
+South America,Canada,Food,Offline,Medium,2023-02-16,714,2023-04-13,928,2.20,4.40,39.90,44.50,5.50
+Australia,Australia,Sports,Offline,High,2023-01-14,715,2023-04-14,215,2.70,1.80,25.80,13.60,17.50
+Australia,UK,Sports,Offline,High,2022-07-22,716,2023-04-10,964,9.20,2.90,1.80,19.10,8.20
+North America,Australia,Sports,Online,High,2023-02-08,717,2023-04-13,943,1.50,4.30,38.40,12.40,33.90
+Asia,India,Sports,Offline,Medium,2022-12-10,718,2023-04-15,785,5.80,1.50,60.50,15.80,23.30
+North America,Australia,Electronics,Online,Medium,2022-11-16,719,2023-04-14,274,7.10,4.20,42.90,26.10,43.60
+Australia,Argentina,Food,Offline,Low,2022-12-14,720,2023-04-10,374,2.60,4.20,41.20,12.30,20.70
+Europe,India,Clothing,Offline,Medium,2022-06-28,721,2023-04-15,360,6.70,2.10,91.40,20.70,39.50
+Asia,Japan,Clothing,Online,Low,2022-11-03,722,2023-04-10,477,5.90,0.40,3.30,4.70,21.80
+Asia,Mexico,Food,Offline,High,2023-03-16,723,2023-04-13,785,7.60,1.30,67.70,49.20,49.30
+Australia,Brazil,Furniture,Online,Medium,2023-01-19,724,2023-04-10,906,9.20,2.60,97.30,40.50,34.40
+Europe,China,Furniture,Offline,Medium,2023-03-12,725,2023-04-15,918,1.00,1.70,34.90,6.00,17.30
+Europe,UK,Electronics,Online,High,2022-12-14,726,2023-04-11,952,8.30,0.80,27.00,13.90,7.90
+South America,USA,Clothing,Online,High,2022-10-17,727,2023-04-12,937,7.90,3.30,8.00,23.10,3.50
+North America,Australia,Food,Offline,Medium,2022-04-26,728,2023-04-11,787,8.10,4.00,29.20,49.80,43.90
+Europe,Mexico,Food,Online,Medium,2022-12-11,729,2023-04-09,268,1.10,1.70,11.60,28.60,37.70
+Australia,France,Electronics,Online,Low,2022-05-27,730,2023-04-09,982,2.90,4.10,97.70,13.70,37.30
+South America,France,Furniture,Online,High,2022-09-25,731,2023-04-13,927,5.10,0.20,33.30,18.40,25.80
+Asia,Germany,Food,Offline,Low,2023-03-26,732,2023-04-14,582,5.20,1.10,73.50,32.10,28.60
+Asia,Germany,Food,Online,Low,2022-05-13,733,2023-04-10,132,3.00,4.20,96.60,38.70,36.50
+North America,Japan,Electronics,Offline,Low,2023-02-10,734,2023-04-15,770,8.90,2.90,10.30,0.20,6.90
+North America,Japan,Clothing,Online,Low,2022-12-12,735,2023-04-12,854,3.30,4.30,95.70,40.50,30.10
+Europe,France,Clothing,Online,High,2023-03-18,736,2023-04-10,121,1.90,4.20,53.50,45.00,40.80
+Asia,USA,Food,Offline,Low,2022-10-30,737,2023-04-12,885,1.90,4.20,93.20,1.40,18.50
+Europe,UK,Furniture,Online,Medium,2022-04-26,738,2023-04-14,321,1.80,3.10,4.80,21.50,10.80
+Asia,Brazil,Sports,Online,Medium,2023-01-31,739,2023-04-13,349,1.80,4.40,56.50,48.70,16.80
+Asia,USA,Clothing,Offline,High,2022-11-30,740,2023-04-09,894,3.00,3.70,9.90,39.90,29.50
+North America,France,Food,Offline,Medium,2022-11-09,741,2023-04-13,836,4.50,1.70,21.10,39.30,19.80
+Australia,China,Food,Offline,Medium,2023-03-01,742,2023-04-12,150,1.00,2.10,43.00,28.20,48.30
+Asia,Argentina,Food,Online,Low,2022-10-03,743,2023-04-11,751,5.70,0.90,93.20,10.00,18.20
+Australia,China,Clothing,Offline,Low,2022-06-20,744,2023-04-14,660,0.50,3.70,66.40,36.50,8.00
+North America,China,Toys,Online,High,2023-03-26,745,2023-04-11,759,9.40,1.70,20.60,43.60,20.40
+North America,India,Clothing,Offline,Low,2022-04-25,746,2023-04-09,674,5.50,4.70,3.70,16.30,7.20
+South America,China,Toys,Online,Low,2023-03-19,747,2023-04-13,67,5.50,3.20,58.40,19.10,11.80
+Asia,China,Clothing,Online,Medium,2023-01-28,748,2023-04-11,764,9.90,3.70,6.80,5.40,28.20
+Australia,Australia,Toys,Online,Medium,2023-03-29,749,2023-04-09,596,6.40,3.40,54.00,32.80,12.50
+South America,Australia,Furniture,Offline,High,2022-05-13,750,2023-04-09,948,3.00,2.60,98.90,38.50,41.40
+Europe,Argentina,Toys,Offline,Medium,2022-06-20,751,2023-04-13,72,7.20,0.50,27.60,49.20,35.70
+North America,Brazil,Food,Online,High,2022-10-26,752,2023-04-14,159,4.40,0.70,84.50,16.00,26.30
+Australia,Argentina,Furniture,Online,High,2022-06-12,753,2023-04-09,52,8.70,4.60,29.00,15.20,13.80
+North America,Canada,Sports,Online,High,2022-07-22,754,2023-04-15,395,6.40,2.60,46.80,42.10,5.30
+North America,Australia,Toys,Online,Medium,2022-10-16,755,2023-04-14,509,9.50,0.80,55.20,4.30,26.90
+North America,France,Electronics,Offline,Medium,2023-01-02,756,2023-04-13,119,7.60,1.80,4.60,27.70,32.10
+North America,Brazil,Furniture,Offline,Medium,2022-11-28,757,2023-04-14,336,5.50,2.70,45.40,32.70,23.50
+Asia,France,Sports,Online,Low,2022-04-22,758,2023-04-10,724,2.10,3.20,27.30,30.80,46.70
+South America,Argentina,Sports,Offline,Low,2023-03-10,759,2023-04-15,486,6.10,1.20,7.60,46.60,13.10
+South America,Australia,Furniture,Offline,Medium,2023-04-02,760,2023-04-11,472,1.50,0.90,65.50,35.70,49.30
+North America,Mexico,Toys,Online,High,2023-01-03,761,2023-04-14,190,3.70,3.40,89.00,22.20,20.30
+Europe,Argentina,Furniture,Offline,Medium,2022-08-13,762,2023-04-14,972,2.00,1.20,58.00,45.80,2.40
+Europe,Australia,Toys,Online,Low,2022-11-26,763,2023-04-10,692,4.30,0.80,61.30,44.40,26.70
+Australia,China,Sports,Offline,High,2022-12-14,764,2023-04-09,727,9.50,2.90,37.20,40.40,33.80
+South America,Canada,Sports,Online,Low,2023-02-09,765,2023-04-12,169,9.00,4.70,27.10,22.20,24.10
+North America,UK,Toys,Offline,Medium,2022-07-26,766,2023-04-09,520,2.90,1.60,46.10,29.10,2.60
+Asia,China,Furniture,Online,Low,2022-12-03,767,2023-04-14,296,6.20,2.10,43.80,46.10,49.70
+North America,Canada,Clothing,Offline,Medium,2022-05-03,768,2023-04-12,626,0.20,2.60,28.00,11.40,8.80
+Australia,Brazil,Toys,Online,High,2022-05-03,769,2023-04-12,162,1.60,1.60,75.80,8.10,38.40
+Asia,Germany,Food,Online,Low,2022-05-11,770,2023-04-14,87,5.60,1.80,42.20,22.70,5.50
+Asia,Mexico,Toys,Offline,High,2023-02-10,771,2023-04-10,704,7.30,2.90,13.20,25.80,3.20
+North America,France,Clothing,Online,Medium,2022-08-22,772,2023-04-14,984,9.70,2.30,86.60,29.10,41.00
+North America,Mexico,Electronics,Offline,High,2023-03-15,773,2023-04-11,797,7.40,2.60,21.30,11.90,25.30
+Australia,India,Clothing,Online,Medium,2022-07-27,774,2023-04-10,634,2.20,1.40,33.80,20.80,14.50
+North America,Mexico,Furniture,Offline,Low,2022-12-10,775,2023-04-12,392,5.50,3.50,97.50,29.40,26.00
+North America,Mexico,Food,Online,Medium,2022-06-09,776,2023-04-12,647,2.40,1.40,76.00,47.40,20.40
+North America,Mexico,Electronics,Online,Medium,2022-05-26,777,2023-04-09,755,4.80,2.60,58.70,33.30,45.10
+Europe,China,Toys,Online,High,2023-01-30,778,2023-04-09,371,1.30,3.00,31.30,19.70,10.80
+Australia,India,Electronics,Offline,Low,2023-02-16,779,2023-04-10,44,5.80,4.70,54.50,26.70,30.00
+Australia,Australia,Food,Online,High,2023-01-31,780,2023-04-14,225,2.60,4.30,72.40,6.90,15.50
+Australia,Mexico,Clothing,Offline,Medium,2022-05-19,781,2023-04-12,973,3.60,4.20,41.40,26.10,4.40
+North America,Brazil,Food,Online,High,2022-10-16,782,2023-04-09,947,3.70,4.00,39.10,39.90,31.50
+Australia,Argentina,Food,Online,High,2022-12-12,783,2023-04-13,273,8.00,1.10,23.70,47.80,35.30
+Asia,Canada,Food,Online,High,2023-02-28,784,2023-04-12,705,2.70,4.70,98.30,30.90,29.00
+Australia,Canada,Furniture,Online,High,2022-12-04,785,2023-04-15,441,0.20,0.90,7.80,27.40,7.00
+Asia,India,Furniture,Online,High,2022-07-04,786,2023-04-13,508,5.70,2.10,31.20,14.50,18.60
+Asia,UK,Clothing,Online,Medium,2023-04-05,787,2023-04-09,770,7.60,2.40,8.10,28.00,12.70
+Europe,India,Furniture,Online,High,2022-07-20,788,2023-04-15,189,6.00,1.30,32.80,37.10,32.20
+Asia,Australia,Toys,Online,High,2023-03-31,789,2023-04-10,759,3.60,1.60,83.00,4.70,13.70
+Australia,Brazil,Toys,Offline,High,2022-07-18,790,2023-04-12,114,5.00,2.30,23.70,43.70,33.90
+North America,Germany,Sports,Offline,Medium,2022-09-10,791,2023-04-13,804,8.80,2.40,97.60,11.40,11.90
+Europe,UK,Electronics,Offline,Medium,2022-12-21,792,2023-04-10,140,2.90,1.90,19.20,34.90,38.30
+Asia,Canada,Furniture,Offline,Medium,2023-03-07,793,2023-04-15,998,6.80,3.40,56.50,20.50,48.70
+Australia,China,Clothing,Online,Low,2022-12-22,794,2023-04-15,840,9.20,1.90,14.40,21.50,30.70
+North America,Mexico,Toys,Online,Low,2023-01-02,795,2023-04-12,688,0.40,1.80,64.60,29.20,17.00
+South America,Brazil,Electronics,Online,Medium,2023-04-03,796,2023-04-09,72,7.90,0.30,29.50,5.30,50.00
+North America,Mexico,Electronics,Offline,Medium,2023-03-31,797,2023-04-15,384,8.90,3.20,59.10,17.80,44.50
+Europe,Argentina,Furniture,Online,Low,2022-06-19,798,2023-04-12,99,5.70,4.30,48.40,14.10,25.40
+North America,Germany,Food,Offline,High,2023-02-10,799,2023-04-10,531,7.50,4.60,84.40,23.60,46.00
+Asia,China,Sports,Online,Medium,2022-06-05,800,2023-04-10,548,9.50,1.70,51.40,19.90,48.90
+Asia,Mexico,Food,Online,High,2022-06-17,801,2023-04-12,646,3.00,2.10,21.10,32.00,28.70
+Asia,China,Electronics,Online,Low,2022-12-12,802,2023-04-13,867,0.50,3.70,17.40,9.70,37.80
+Australia,Australia,Furniture,Online,Medium,2022-10-04,803,2023-04-09,724,5.80,3.20,97.70,44.90,6.10
+Australia,Mexico,Toys,Offline,High,2022-06-19,804,2023-04-15,952,1.40,3.30,29.00,28.40,35.30
+Australia,Australia,Sports,Online,High,2022-12-31,805,2023-04-15,865,4.60,1.10,56.60,36.30,26.60
+Europe,Canada,Clothing,Online,Medium,2023-02-28,806,2023-04-14,407,8.50,2.70,99.40,38.50,9.80
+Asia,UK,Toys,Offline,Low,2023-02-10,807,2023-04-09,364,0.20,4.30,47.90,14.70,41.10
+North America,Argentina,Sports,Online,Low,2022-05-15,808,2023-04-15,844,7.80,4.20,63.20,49.90,9.10
+Australia,Argentina,Food,Offline,Low,2022-12-04,809,2023-04-12,499,3.50,2.20,22.40,41.30,11.10
+Australia,Argentina,Sports,Online,Medium,2023-01-15,810,2023-04-09,703,0.30,2.10,80.50,1.60,48.10
+Europe,UK,Furniture,Offline,Medium,2022-07-22,811,2023-04-10,869,8.70,0.70,40.20,9.80,43.20
+Europe,UK,Food,Online,Low,2023-01-10,812,2023-04-14,525,2.80,0.70,28.50,19.90,45.70
+Australia,India,Food,Online,High,2023-01-22,813,2023-04-12,782,0.60,2.40,62.70,16.00,46.00
+Asia,Canada,Toys,Online,Medium,2022-06-22,814,2023-04-13,959,1.60,1.90,85.90,43.00,27.50
+Europe,Brazil,Toys,Offline,Low,2022-08-28,815,2023-04-10,954,3.10,4.50,18.90,21.20,33.80
+Europe,Mexico,Sports,Offline,Low,2023-03-17,816,2023-04-11,620,3.90,4.20,95.70,35.50,33.00
+North America,Argentina,Food,Offline,High,2022-04-21,817,2023-04-11,799,8.50,4.80,76.10,28.60,49.70
+Australia,USA,Sports,Online,Low,2023-01-17,818,2023-04-09,642,2.10,3.30,37.60,16.20,30.70
+Australia,Australia,Toys,Online,Low,2022-11-23,819,2023-04-13,241,6.70,0.40,17.50,26.40,36.00
+South America,Brazil,Food,Online,Low,2022-10-30,820,2023-04-13,1,2.70,1.10,48.00,21.10,10.10
+Europe,Mexico,Electronics,Online,Low,2022-12-09,821,2023-04-11,607,3.90,4.70,24.10,8.00,46.40
+South America,Japan,Toys,Online,Medium,2022-09-05,822,2023-04-15,439,9.00,3.20,62.20,11.00,39.20
+South America,France,Furniture,Offline,Medium,2022-11-22,823,2023-04-12,341,0.80,4.00,52.00,5.40,4.40
+Asia,Canada,Furniture,Offline,Medium,2022-12-30,824,2023-04-11,408,6.10,2.50,86.30,33.30,8.50
+Europe,France,Electronics,Offline,Medium,2022-05-28,825,2023-04-11,649,2.10,2.80,71.40,47.40,28.70
+South America,Argentina,Sports,Online,Medium,2022-10-26,826,2023-04-13,632,4.50,1.70,5.70,1.40,7.60
+South America,Japan,Toys,Online,Low,2022-06-08,827,2023-04-14,328,3.90,4.90,74.40,14.80,24.80
+North America,India,Electronics,Online,High,2022-08-31,828,2023-04-13,477,4.60,1.40,88.00,40.40,48.90
+South America,France,Toys,Online,Low,2022-06-09,829,2023-04-15,743,9.30,4.10,70.20,43.50,2.70
+Europe,Japan,Food,Online,Low,2023-03-13,830,2023-04-15,977,8.80,4.90,27.70,33.80,28.40
+South America,Mexico,Sports,Offline,Low,2022-11-10,831,2023-04-09,11,9.30,4.20,97.40,49.30,49.70
+North America,USA,Toys,Online,Medium,2023-02-04,832,2023-04-12,494,0.90,0.20,24.70,41.00,37.20
+Australia,China,Toys,Offline,Low,2022-09-09,833,2023-04-14,21,6.60,1.10,31.10,19.00,18.80
+Europe,France,Sports,Online,Medium,2022-07-18,834,2023-04-15,414,3.20,2.80,52.80,2.60,37.20
+Australia,France,Electronics,Offline,Low,2023-01-16,835,2023-04-14,681,3.80,4.60,2.30,45.00,21.10
+Australia,China,Sports,Online,Low,2022-07-18,836,2023-04-15,352,2.00,2.20,87.40,28.30,32.40
+Australia,India,Food,Offline,High,2023-03-14,837,2023-04-10,557,3.00,3.30,19.20,42.50,0.20
+Asia,Mexico,Electronics,Online,Medium,2022-04-10,838,2023-04-15,764,0.40,3.10,14.30,16.20,10.40
+Asia,UK,Toys,Online,Medium,2022-07-15,839,2023-04-10,843,5.60,1.70,82.50,7.40,34.20
+Europe,Brazil,Electronics,Offline,Medium,2023-03-05,840,2023-04-11,946,0.50,1.00,96.50,35.10,38.40
+Europe,France,Sports,Offline,Medium,2022-10-10,841,2023-04-14,716,8.60,2.80,80.60,5.00,35.80
+South America,Canada,Toys,Online,High,2022-10-06,842,2023-04-09,399,0.80,2.30,25.10,40.90,3.50
+South America,Japan,Furniture,Offline,High,2022-11-06,843,2023-04-09,844,4.10,3.40,34.00,15.10,44.30
+South America,India,Sports,Offline,High,2022-05-30,844,2023-04-14,870,0.40,2.20,87.90,18.70,13.50
+North America,USA,Furniture,Offline,Low,2022-05-06,845,2023-04-12,48,1.40,1.60,85.10,13.40,12.10
+Europe,France,Furniture,Offline,Medium,2022-04-27,846,2023-04-09,385,3.30,3.30,52.90,30.80,27.20
+Europe,Mexico,Toys,Offline,Low,2023-02-10,847,2023-04-15,682,8.60,4.90,86.70,32.80,28.10
+Europe,USA,Furniture,Online,High,2022-12-07,848,2023-04-12,999,7.80,1.10,41.10,5.90,40.60
+South America,China,Clothing,Offline,Low,2022-05-05,849,2023-04-12,573,7.50,4.40,65.10,2.90,3.80
+Asia,Mexico,Sports,Offline,High,2023-03-13,850,2023-04-13,43,5.30,3.10,50.50,16.20,29.80
+Australia,Canada,Clothing,Offline,High,2022-08-15,851,2023-04-10,260,9.30,0.10,93.70,3.90,38.40
+Europe,Canada,Food,Offline,High,2022-08-12,852,2023-04-15,874,1.10,0.40,60.70,22.00,50.00
+North America,Germany,Furniture,Offline,High,2022-10-23,853,2023-04-14,730,0.70,1.40,89.70,5.40,28.40
+South America,USA,Sports,Offline,High,2022-07-22,854,2023-04-13,168,7.60,1.10,69.70,18.90,31.20
+Europe,Canada,Food,Offline,Medium,2022-11-23,855,2023-04-12,412,2.30,0.80,6.20,35.20,10.70
+Australia,China,Clothing,Offline,Medium,2023-02-19,856,2023-04-12,94,4.80,0.80,18.50,43.10,34.00
+Australia,Japan,Sports,Online,Low,2022-11-18,857,2023-04-15,368,10.00,1.50,94.80,31.00,18.40
+Europe,Argentina,Electronics,Offline,Low,2022-04-10,858,2023-04-13,7,6.10,4.90,76.60,16.10,19.50
+North America,Brazil,Sports,Offline,Medium,2022-10-26,859,2023-04-15,963,6.00,2.50,8.00,46.00,37.90
+Australia,France,Toys,Online,Low,2022-06-04,860,2023-04-12,854,1.50,1.00,53.10,38.10,17.30
+Europe,China,Clothing,Offline,High,2022-04-23,861,2023-04-14,227,3.10,2.90,13.00,16.60,18.20
+South America,France,Sports,Offline,Low,2022-05-31,862,2023-04-09,927,7.60,0.60,28.10,13.70,27.60
+Europe,India,Electronics,Online,Low,2022-09-24,863,2023-04-11,753,9.00,1.80,10.50,36.20,39.70
+Europe,Germany,Toys,Offline,Low,2022-05-06,864,2023-04-11,481,8.90,1.90,94.10,41.70,19.80
+Europe,Germany,Toys,Online,High,2022-05-03,865,2023-04-14,32,1.00,4.60,97.10,5.00,20.90
+North America,Mexico,Clothing,Online,High,2022-10-02,866,2023-04-10,664,2.50,4.10,100.00,26.90,45.30
+Asia,Mexico,Electronics,Online,Low,2023-01-05,867,2023-04-12,595,3.40,2.60,16.40,21.80,39.10
+Asia,Australia,Food,Online,Low,2022-04-09,868,2023-04-10,762,5.00,4.30,88.20,9.90,22.90
+South America,Brazil,Electronics,Online,Medium,2022-12-19,869,2023-04-15,460,6.90,2.70,35.90,43.80,21.10
+North America,Brazil,Sports,Offline,High,2023-01-11,870,2023-04-12,626,1.90,1.30,28.90,20.30,19.40
+South America,India,Furniture,Online,High,2023-02-01,871,2023-04-11,228,9.00,1.50,44.10,21.50,44.00
+North America,Japan,Sports,Offline,High,2022-11-09,872,2023-04-15,586,3.10,2.90,71.60,10.50,2.90
+Asia,USA,Toys,Offline,Low,2022-10-10,873,2023-04-10,739,8.60,3.80,59.90,1.40,7.80
+Asia,China,Electronics,Online,High,2022-05-23,874,2023-04-10,378,5.40,3.60,83.30,28.20,2.00
+Australia,Argentina,Furniture,Online,Low,2022-11-30,875,2023-04-12,424,1.60,4.20,53.80,45.00,3.10
+Europe,Australia,Toys,Offline,Medium,2022-12-25,876,2023-04-12,847,4.90,3.70,47.80,37.70,46.80
+Asia,Japan,Sports,Offline,Low,2022-12-10,877,2023-04-14,783,8.30,2.10,58.70,0.80,37.70
+South America,China,Electronics,Offline,Low,2022-06-04,878,2023-04-09,212,4.90,4.10,48.80,19.50,33.70
+South America,Germany,Electronics,Offline,Low,2023-01-23,879,2023-04-12,769,3.30,0.90,2.50,48.10,39.50
+North America,India,Sports,Offline,High,2022-11-30,880,2023-04-13,504,10.00,1.20,36.40,42.70,12.70
+South America,Japan,Toys,Offline,High,2022-12-28,881,2023-04-15,380,3.90,0.60,21.20,8.90,39.60
+Europe,Brazil,Electronics,Online,High,2022-12-11,882,2023-04-14,528,4.20,1.80,48.90,13.90,9.10
+North America,France,Furniture,Online,High,2022-06-07,883,2023-04-11,561,10.00,0.10,56.10,5.20,15.90
+Asia,Germany,Clothing,Offline,Medium,2022-11-18,884,2023-04-09,529,4.40,4.20,9.20,10.20,21.00
+Europe,China,Electronics,Offline,High,2022-09-28,885,2023-04-10,494,9.30,3.30,29.10,46.40,29.60
+Asia,Australia,Toys,Online,Low,2023-02-08,886,2023-04-15,457,5.20,1.70,44.10,32.60,13.30
+South America,Australia,Electronics,Offline,Medium,2022-11-02,887,2023-04-14,366,0.90,0.30,34.10,37.60,12.40
+Europe,Japan,Toys,Offline,Medium,2022-12-07,888,2023-04-09,996,4.30,0.60,50.50,6.60,5.00
+North America,Mexico,Furniture,Online,Medium,2022-11-01,889,2023-04-12,23,3.70,1.40,83.80,36.40,24.90
+Asia,India,Toys,Offline,High,2022-05-30,890,2023-04-13,611,6.30,2.60,36.80,12.50,25.20
+Asia,China,Sports,Online,Low,2022-10-27,891,2023-04-15,665,0.50,4.30,34.60,34.90,44.80
+Asia,UK,Clothing,Online,High,2022-10-27,892,2023-04-12,861,1.00,3.30,82.20,8.70,11.20
+Europe,Mexico,Sports,Offline,Low,2023-01-18,893,2023-04-11,245,5.50,2.10,10.60,32.40,7.30
+Asia,Australia,Sports,Online,High,2023-02-17,894,2023-04-13,919,1.90,1.10,7.50,34.40,15.50
+Europe,Australia,Furniture,Online,Medium,2023-02-01,895,2023-04-13,936,6.00,0.90,81.20,49.70,12.40
+North America,UK,Sports,Online,Medium,2022-06-18,896,2023-04-13,452,5.40,3.00,10.40,42.50,17.60
+South America,Japan,Toys,Online,Medium,2023-02-15,897,2023-04-15,860,4.70,1.70,14.70,20.10,13.10
+South America,China,Furniture,Offline,Medium,2023-03-10,898,2023-04-13,174,6.70,0.80,6.50,10.20,42.70
+Asia,Japan,Sports,Offline,High,2022-08-03,899,2023-04-14,432,4.80,1.40,66.00,21.60,24.80
+North America,China,Sports,Offline,High,2022-07-12,900,2023-04-12,323,1.60,3.00,52.60,33.50,31.00
+Australia,France,Toys,Offline,Medium,2023-02-07,901,2023-04-12,192,1.10,3.00,92.60,30.60,36.70
+Asia,Canada,Furniture,Online,Low,2022-10-05,902,2023-04-12,84,4.50,2.60,87.90,48.10,26.60
+Asia,Canada,Food,Online,Low,2023-03-23,903,2023-04-09,311,3.30,2.50,90.00,38.30,20.20
+North America,Australia,Electronics,Online,Medium,2022-05-09,904,2023-04-11,871,3.50,0.90,12.80,36.90,26.30
+Asia,Germany,Furniture,Offline,Medium,2022-09-23,905,2023-04-13,542,3.90,3.40,5.70,25.20,39.90
+Asia,Canada,Clothing,Offline,Low,2022-12-27,906,2023-04-11,453,2.40,0.20,35.90,25.20,32.40
+Europe,UK,Toys,Online,Medium,2022-12-16,907,2023-04-13,838,7.70,4.80,31.10,30.40,1.50
+South America,China,Toys,Online,Low,2023-04-07,908,2023-04-12,883,4.30,0.90,30.10,23.60,10.20
+Europe,India,Furniture,Offline,Medium,2022-10-27,909,2023-04-13,633,1.80,3.80,97.40,16.80,32.80
+Asia,Germany,Food,Online,Medium,2022-08-19,910,2023-04-11,884,3.30,1.50,95.30,39.90,27.10
+Europe,Argentina,Furniture,Online,High,2022-07-30,911,2023-04-15,28,1.30,3.30,31.50,39.90,28.70
+Australia,France,Furniture,Offline,Medium,2023-02-07,912,2023-04-12,714,1.40,3.60,59.60,18.50,29.40
+Australia,Japan,Furniture,Online,High,2022-11-30,913,2023-04-11,481,1.40,1.20,42.50,19.50,48.80
+Australia,UK,Toys,Online,High,2022-06-24,914,2023-04-10,962,9.70,5.00,52.60,3.40,22.30
+Asia,France,Food,Offline,High,2023-03-04,915,2023-04-14,17,9.90,2.70,17.30,3.50,2.10
+Australia,Germany,Toys,Online,High,2022-09-10,916,2023-04-13,726,2.30,1.20,64.90,31.10,6.70
+Europe,China,Sports,Online,High,2023-03-28,917,2023-04-10,655,4.70,2.40,56.90,14.50,37.70
+Europe,Japan,Sports,Offline,High,2023-04-02,918,2023-04-14,574,3.80,1.20,75.50,34.30,9.10
+Australia,Canada,Electronics,Online,High,2022-09-07,919,2023-04-10,778,4.80,2.70,6.10,46.10,46.00
+Asia,Germany,Furniture,Offline,High,2022-05-22,920,2023-04-10,297,7.80,0.70,35.80,24.60,48.60
+South America,Brazil,Toys,Online,Low,2022-07-11,921,2023-04-11,604,3.60,4.60,31.20,4.30,20.20
+South America,Canada,Toys,Online,High,2022-04-24,922,2023-04-15,494,9.30,1.60,80.90,48.70,5.30
+Europe,Japan,Furniture,Offline,High,2022-10-08,923,2023-04-13,460,6.40,5.00,84.20,44.20,31.50
+North America,Japan,Food,Online,Medium,2022-07-24,924,2023-04-13,318,1.00,2.60,76.30,23.20,17.50
+Europe,Canada,Sports,Offline,Medium,2022-11-09,925,2023-04-14,918,7.20,3.30,99.20,31.50,36.00
+Asia,China,Toys,Offline,High,2022-06-20,926,2023-04-09,523,8.50,0.20,82.60,32.70,10.90
+Australia,Germany,Toys,Offline,High,2022-06-04,927,2023-04-13,380,5.10,0.60,81.90,21.50,46.90
+North America,USA,Furniture,Offline,High,2023-02-06,928,2023-04-12,778,7.20,0.10,54.90,16.30,7.70
+Asia,USA,Clothing,Online,High,2022-12-14,929,2023-04-15,21,8.50,3.90,19.80,32.60,43.00
+South America,Mexico,Electronics,Online,Medium,2022-07-19,930,2023-04-11,536,2.80,2.30,23.80,40.60,1.50
+Asia,Argentina,Furniture,Offline,High,2022-06-28,931,2023-04-13,486,9.40,3.80,45.10,3.00,5.70
+South America,Australia,Food,Offline,High,2022-11-14,932,2023-04-11,843,0.80,2.70,12.30,15.60,16.40
+Asia,USA,Food,Online,Medium,2022-10-13,933,2023-04-09,540,4.60,0.50,37.10,48.00,8.60
+South America,Canada,Food,Online,High,2022-05-09,934,2023-04-11,209,9.00,4.30,32.00,18.10,7.90
+Australia,Argentina,Sports,Online,Medium,2022-06-08,935,2023-04-13,880,4.60,2.10,44.00,8.50,12.30
+Europe,USA,Food,Offline,Low,2023-02-09,936,2023-04-11,881,4.80,1.50,64.50,38.20,23.10
+South America,Germany,Furniture,Offline,Low,2022-09-14,937,2023-04-11,703,7.50,2.90,12.40,31.50,8.40
+North America,Argentina,Sports,Online,High,2022-06-06,938,2023-04-09,3,4.60,3.10,17.80,29.70,33.00
+Europe,Brazil,Electronics,Offline,Medium,2022-06-02,939,2023-04-11,13,0.20,4.80,69.30,14.40,13.80
+South America,Argentina,Sports,Offline,Low,2023-01-03,940,2023-04-12,101,7.20,2.00,74.50,9.80,2.60
+South America,Australia,Toys,Online,High,2022-08-23,941,2023-04-09,493,8.40,0.30,80.10,34.50,7.50
+Australia,Germany,Sports,Online,Medium,2022-07-21,942,2023-04-09,453,5.90,1.30,57.40,7.40,1.90
+South America,Japan,Toys,Online,Medium,2022-10-16,943,2023-04-12,918,2.10,3.20,59.20,15.00,28.10
+Australia,Germany,Sports,Offline,Medium,2023-02-19,944,2023-04-11,513,9.50,4.00,94.00,46.60,12.40
+South America,Brazil,Toys,Online,High,2022-12-23,945,2023-04-09,272,8.80,1.50,53.50,10.30,17.10
+Europe,UK,Furniture,Online,High,2022-10-07,946,2023-04-14,134,7.10,1.00,27.80,8.60,4.00
+Europe,Australia,Food,Offline,Medium,2022-04-17,947,2023-04-14,209,9.50,4.70,99.10,10.20,19.00
+Europe,China,Furniture,Online,High,2022-08-03,948,2023-04-14,538,6.90,2.10,56.00,33.50,2.60
+South America,Germany,Food,Offline,Medium,2022-05-22,949,2023-04-14,758,8.90,0.90,87.00,12.70,43.70
+North America,Canada,Clothing,Online,Medium,2022-07-30,950,2023-04-14,256,3.80,5.00,5.00,35.80,33.00
+Australia,Germany,Furniture,Online,Medium,2023-03-27,951,2023-04-10,405,4.30,4.80,25.80,3.50,6.10
+South America,Australia,Sports,Online,Low,2022-12-24,952,2023-04-09,590,9.20,1.10,94.00,4.30,15.70
+Asia,Australia,Toys,Online,High,2023-01-14,953,2023-04-11,595,8.40,1.40,11.20,2.20,24.70
+South America,China,Toys,Offline,Medium,2022-05-06,954,2023-04-10,695,1.30,2.00,59.40,38.80,45.70
+South America,Germany,Toys,Offline,High,2022-12-02,955,2023-04-14,444,4.30,0.90,70.10,38.30,9.70
+Europe,Germany,Electronics,Online,Low,2023-02-18,956,2023-04-14,547,2.60,2.30,74.40,43.30,12.80
+North America,Mexico,Clothing,Offline,High,2022-08-03,957,2023-04-15,779,7.10,1.10,34.00,49.70,27.30
+Asia,Australia,Furniture,Online,Low,2022-09-25,958,2023-04-09,602,1.30,3.50,7.20,8.60,28.00
+North America,Germany,Clothing,Online,High,2022-11-13,959,2023-04-09,39,4.00,2.30,63.80,40.90,44.60
+North America,Australia,Sports,Online,High,2023-01-21,960,2023-04-11,59,8.90,0.40,47.80,23.20,28.10
+Europe,Brazil,Toys,Offline,High,2022-05-21,961,2023-04-13,986,4.60,3.00,86.50,25.50,35.30
+North America,Brazil,Electronics,Online,Low,2023-02-13,962,2023-04-10,28,0.50,4.50,77.60,48.80,27.20
+Europe,Australia,Electronics,Online,Low,2022-09-27,963,2023-04-14,764,7.70,4.00,50.00,30.20,31.30
+Asia,China,Furniture,Online,Low,2022-11-07,964,2023-04-12,562,9.70,3.50,70.40,15.80,23.60
+Asia,Mexico,Electronics,Offline,High,2022-04-24,965,2023-04-09,207,3.70,2.00,80.10,41.30,37.10
+Australia,Argentina,Food,Offline,High,2022-10-30,966,2023-04-10,733,9.90,3.70,58.20,20.00,25.70
+South America,Mexico,Furniture,Offline,High,2022-08-05,967,2023-04-12,379,5.60,3.10,73.60,7.40,24.40
+South America,Australia,Clothing,Offline,Low,2022-10-12,968,2023-04-11,751,9.70,1.80,51.70,1.20,34.30
+Australia,Canada,Furniture,Online,Medium,2022-05-07,969,2023-04-13,524,2.20,3.70,82.80,31.40,28.20
+Europe,France,Clothing,Online,Medium,2022-07-12,970,2023-04-15,200,0.40,0.90,97.70,32.60,8.00
+South America,Canada,Electronics,Online,Low,2022-04-11,971,2023-04-15,987,1.30,3.60,75.20,10.10,9.00
+Australia,Germany,Furniture,Online,High,2022-07-05,972,2023-04-13,71,5.50,2.00,3.30,30.20,37.40
+South America,Brazil,Toys,Offline,High,2022-12-07,973,2023-04-13,916,5.30,0.20,83.10,9.90,11.20
+South America,Japan,Food,Online,Low,2022-07-31,974,2023-04-14,661,5.30,2.70,26.40,2.60,20.90
+Europe,Argentina,Clothing,Offline,Medium,2022-08-13,975,2023-04-11,357,8.90,1.90,36.30,13.60,35.50
+Europe,Canada,Electronics,Online,Low,2022-08-26,976,2023-04-11,121,2.50,3.00,24.40,37.80,2.70
+Europe,India,Toys,Offline,Low,2022-11-18,977,2023-04-10,805,9.30,3.60,71.80,12.30,16.10
+Europe,Brazil,Food,Online,Low,2022-10-19,978,2023-04-09,309,2.70,2.00,68.80,2.30,45.70
+South America,Mexico,Electronics,Offline,Low,2023-02-21,979,2023-04-10,757,2.90,3.30,26.10,45.10,28.40
+Australia,Argentina,Toys,Offline,Medium,2022-09-23,980,2023-04-11,518,2.60,0.30,50.30,44.30,28.10
+South America,Brazil,Sports,Online,Low,2022-06-22,981,2023-04-09,740,6.80,1.40,48.50,26.60,27.10
+North America,Brazil,Toys,Offline,Low,2023-01-10,982,2023-04-12,923,6.90,1.10,44.60,3.30,20.30
+Australia,Germany,Sports,Offline,Low,2022-12-16,983,2023-04-11,910,8.70,2.00,21.50,1.40,43.10
+North America,Brazil,Furniture,Online,Low,2022-05-11,984,2023-04-14,78,6.00,3.10,91.10,30.70,27.20
+Asia,Germany,Food,Offline,Low,2023-02-07,985,2023-04-15,711,7.90,4.20,50.90,21.40,40.40
+Australia,Japan,Sports,Offline,Low,2022-04-29,986,2023-04-09,350,7.50,2.30,20.80,1.60,1.10
+North America,India,Electronics,Online,High,2022-04-19,987,2023-04-10,182,2.50,3.30,50.90,9.50,26.10
+Europe,Argentina,Toys,Online,Medium,2022-09-24,988,2023-04-11,723,3.10,2.00,87.90,4.20,23.70
+North America,France,Sports,Online,Low,2022-06-06,989,2023-04-12,177,6.80,3.60,59.70,35.70,30.00
+Australia,Japan,Clothing,Offline,Low,2022-04-21,990,2023-04-12,25,0.20,1.40,65.50,30.50,24.90
+South America,UK,Toys,Offline,Medium,2022-04-28,991,2023-04-09,166,2.80,5.00,11.80,34.20,39.60
+South America,France,Furniture,Offline,High,2022-11-28,992,2023-04-14,589,3.50,0.70,35.80,16.20,48.50
+Australia,Australia,Food,Offline,High,2022-08-03,993,2023-04-10,657,9.40,4.90,8.00,45.50,36.20
+Europe,Canada,Clothing,Offline,High,2022-10-02,994,2023-04-14,370,4.30,3.50,83.40,24.80,25.90
+North America,India,Electronics,Offline,High,2022-08-05,995,2023-04-09,347,3.10,3.50,43.50,8.00,25.40
+Europe,Germany,Clothing,Offline,Low,2022-10-02,996,2023-04-13,336,7.80,0.10,83.20,40.90,6.30
+Australia,Japan,Food,Offline,Medium,2022-09-13,997,2023-04-10,979,5.50,0.70,81.10,46.60,18.00
+Australia,Mexico,Electronics,Offline,High,2023-01-28,998,2023-04-15,840,5.30,2.20,26.50,41.90,8.80
+Australia,Japan,Toys,Offline,Medium,2022-12-31,999,2023-04-14,703,3.50,0.50,81.50,4.00,44.50
+South America,Japan,Electronics,Offline,Low,2022-11-07,1000,2023-04-12,779,7.50,4.30,14.70,29.20,12.60

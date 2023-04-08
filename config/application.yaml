@@ -1,0 +1,15 @@
+microserviceName: 'microservice-process-file-go'
+microserviceServer: ''
+microservicePort: '8000'
+microserviceVersion: '1.0.0'
+logLevel: 'debug'
+
+application:
+  address: ':3005'
+
+database:
+  host: 'localhost'
+  port: '5432'
+  username: 'postgres'
+  password: 'MeWb2XjpYDaJvdhq'
+  dbname: 'loaders'
